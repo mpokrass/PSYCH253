@@ -101,3 +101,53 @@ We experience feelings completely different to how we predict them. The way we p
 Another study, participants predicted their happiness and then gave an actual rating. When you add more details to your day, you realize that the impact of the football game is low. We have very poor introspective abilities. 
 
 Another correlation study - what is people's dispositional level of happiness? Predict happiness after getting final grades, and then measure them. Had no correlation to how they actually felt. You think you're gonna feel a certain way - but it actually has no bearing on what you actually feel. 
+
+## Lecture 4 - Sep 16
+
+Poor access to our mental processes. Explicit vs implicit attitudes. Cognitive conscious thoughts, and automatic thoughts. No correlation between these two (explicit thought vs implicit association). 
+
+People try to explain implicit thoughts but often get them very wrong. Implicit attitudes test. 
+
+Social desirability bias - don't want to have these implicit associations. Spreading activation - adjacent neurons. Some of the concepts will be more closely associated than others. 
+
+Self esteem is your attitude towards or evaluation of the self. Our self esteem is a socio-meter. Indicator of how well we are doing in our social environment. People are motivated to maintain high self esteem. 
+
+Low self-esteem predicts aggression, anti-social behaviour, and deliquency. 
+
+In the late 90s and early 2000s, psychologists wanted improve people's self esteem, eg. participation trophies. 
+
+But narcissists (inflated self esteem) are agressive and anti social too. More likely to retaliate when threatened. Can become extremist. 
+
+Study measured explicit vs implicit self esteem. People with explicit high self esteem actually had lower implicit self esteem. Donut people. Unstable sense of self. 
+
+Explicit self esteem really doesn't mean much. 
+
+Self-control is social. We inhibit primitive pre-potent inpulses for delayed rewards (willpower). Poor self-control predicts anti-social behaviour. 
+
+Ego-depletion: exerting self-control reduces subsequent efforts. 
+
+Taste perception: please don't eat 3 hours before. 
+
+IV resist temptation to eat cookies (ate radishes) vs taste-test the cookies vs no food control group
+
+Asked group 1 to not eat cookies (self control), group 2 let them eat cookies, group 3 no food.
+
+DV: presistence at an impossible tracing task. Having eaten radishes and depleted self control, group 1 gave up on the task much before the other groups. 
+
+Depleting self control resources. Argument that it is a self-fulfilling prophecy: beliefs and attitudes shape our behaviour. 
+
+We balance our want-to and have-to selves. 
+
+Another study: read different descriptions of willpower. group 1: willpower is limited and needs rest and recovery. group 2: exerting willpower can be energizing for other activities. 
+
+Half of participants exerted self-control and half did a control task. Cross study, 4 groups. Willpower - cross out letter Es in a passage. Other study had specific Es to cross out. 
+DV: performance at self-control task (stroop task).
+
+Results showed that we don't really understand self control. People can be trained into it not depleting. (Like above study)
+
+We fail at predicting the future self. Hyperbolic discounting. 100 now vs 120 in a week or 120 in a month vs 140 in 5 weeks. We have a bias for the present moment. People who get into debt. 
+
+Self-serving bias: success = self vs failure = situation. This maintains our self-esteem. Eg. group projects: everyone thinks that they did more work. 
+
+Theory of mind: able to perceive what other people are thinking. We present desirable images of ourselves. We feel less need to do impression management around friends. This is because the people around you know you already. 
+
