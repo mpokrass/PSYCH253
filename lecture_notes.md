@@ -149,5 +149,77 @@ We fail at predicting the future self. Hyperbolic discounting. 100 now vs 120 in
 
 Self-serving bias: success = self vs failure = situation. This maintains our self-esteem. Eg. group projects: everyone thinks that they did more work. 
 
-Theory of mind: able to perceive what other people are thinking. We present desirable images of ourselves. We feel less need to do impression management around friends. This is because the people around you know you already. 
+Theory of mind: able to perceive what other people are thinking. We present desirable images of ourselves. We feel less need to do impression management around friends. This is because the people around you know you already.
+
+## Lecture 5 - Sep 19
+
+Context matters - new and old cues in your environment will shape your actions. Social beliefs and judgements dictate how you perceive the situation and how you act in it. Our judgements and preconceptions are cued by out context. Can have implicit cues that prime different behaviours (don't even notice). 
+
+We analyze our environment and make patterns/predictions. We later rely on these patterns, sometimes unconsciously. 
+
+Priming - cognitive concepts can be activated through primes, influencing our behaviour. The brain is a collection of neural networks, activating one node can lead to "spreading actiation". 
+
+Can we subconsciously prime and change behvaiours? 
+
+IV: primed with concept of rude vs polite vs neutral. Completed a scrambled sentence task. 
+
+DV: polite vs rude behaviour. Experimenter was stuck "explaining" the SST to confederate (timed how long it took participant to interrupt). (pulled into a room, experimenter was helping explain to confederate). Timed how long it would take them to interrupt. 
+
+People who were primed with politeness interrupted significantly less, then neutral, then rude. 
+
+Are social judgements related to behaviour; can they too be primed?
+
+IV: primed with concept of elderly vs neutral (scrambled sentence task)
+
+DV: gave debrief on study, then left. Timed how long took them to walk to elevator to leave. 
+
+They thought people primed with elderly thoughts would be slower, and they were. Replicated this again in another study. This suggests that even without explicitly targeting a behaviour, the generalized stereotype was enough to cause the behaviour. 
+
+We should be cognisant of all of the things that influence our behaviour. 
+
+-
+Can hostile behaviour be primed with an African-American stereotype. 
+
+Subliminal vs supraliminal `!=` unconscious vs conscious. 
+
+Conscious vs unconscious: can bring to the front of mind/working memory, vs not able to.
+
+Subliminal: outside of conscious perceptual field. 
+
+Faces shown subliminally during long, boring estimation task. Higher ecological validity. We might not ever be aware of these things. 
+
+People who were primed with black faces were more hostile than those primed with caucasian faces. We can never be 100% aware of all of our biases. 
+
+-
+
+Patient with blindsight (had stroke in right side of brain, couldn't perceive the left side of the world). 
+
+Showed patient pictures of houses and asked her to select her preference. One of the houses was on fire on the left side. 9/11 times she chose the non burning house. When the house was burning on the right side, she correctly chose the house. 
+
+-
+Schemas don't only affect current behaviour, but memories as well. Schemas drive our automatic associative behaviour. 
+
+Misinformation effect: incorporating schema-congruent information resulting in false memories. This works because the misinformation _feels right_. Confidence doesn't always predict reality. 
+
+-
+Belief perserverance: people believe firmly in their judgements and are hard to persuade. 
+
+People use strength over weight when evaluating confidence. Strength of their memories over weight. 
+
+Strength: positive/warmth of a reference letter (eg. size of an effect)
+
+Weight: credibility of the source (eg. sample size)
+
+Flip a coin 5 times and it's all heads: strength is high, weight is low. 
+
+IV: presented with 12 coin=spinning scenarios. Bias of 60% but not sure where it's biased to.
+
+DV: asked people which way they thought it was skewed. 
+
+People over-guessed how likely it was. s
+
+Testimonials work well because the strength is high. 
+
+-
+Hyperbolic discounting: as things get further in time, they get more similar. We value the present moment much more. 
 
