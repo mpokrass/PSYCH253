@@ -223,3 +223,122 @@ Testimonials work well because the strength is high.
 -
 Hyperbolic discounting: as things get further in time, they get more similar. We value the present moment much more. 
 
+## Lecture 6 - Sep 21
+
+Confirmation bias: we focus on evidence that supports, rather than falsifies our intuitions. We don't look for stuff that is against our views. Look for info that confirms our beleifs, no matter how weak it is.
+
+-
+IV: difficulty of passage stimulus (disfluency). Presented in hard to read font.
+
+DV: stance on capital punishment (controlling for political ideology). 
+
+-
+The reasons we utilize conf bias is because we make use of heuristics. They are mental shortcuts, save our cognitive capacity. Lets us save executive function for more important things.
+
+We store schemas instead of memories. Our brains are very efficient. 
+
+Availability heuristic: recent/available information biases our judgements. 
+
+Representativeness heuristic: our mental schemas or representations colour our intuitive judgements. 
+
+These biases typically work for us, but in some situations they fail us. 
+
+-
+Illusory correlation: two distinct events become linked; increased attention to rare events.
+
+Illusory control: gambling; individuals believe they have influence on the outcome. 
+
+More likely to react with negative reinforcement.
+
+-
+Tested the idea of "paired distinctiveness".
+
+We are likely to associate events together.
+
+IV: read about group a or group b individuals. 
+
+39 statements more positive (27) than negative (12) statements (9:4)
+26 in group a, 13 in group b (2:1)
+
+DV: accuracy in recalling behaviours, estimates of typical traits of group members.
+
+Individuals over-estimated the likelihood that group b had negative traits, inaccurately recalled more negative behaviours. 
+
+-
+counter factual thinking
+
+Hypothetical scenarios with alternative outcomes that "almost" happened.
+
+Can be near misses (downward) or (upward) in nature.
+
+Purposes for this type of thinking?
+
+- suggested that we use it for affective reasons
+- also for preparation for future events (avoid some negative result, therefore motivational)
+
+-
+Attribution theory
+
+We perceived behaviour in terms of "causes" (recall theory of mind)
+
+Fundamental attribution error: we lack information, more likely to attribute behaviour to internal (vs external)
+
+Dispositional attribution vs situational attribution. Have more insight to the reasons behind your actions. We have more leeway for our own actions. 
+
+-
+Ross et al. study 1
+
+Participants brought into a lab for a quiz game experiment, no confederates.
+
+IV: experimental vs control condition
+
+- experimental: questioner developed hard questions for contestants (q will know answer, reflective of intelligence)
+- control: questioner asked pre-selected questions for contestant (q may not know answer)
+
+DV: self ratings of knowledge, and partner's knowledge.
+
+E: contestants rated questioner as smarter, own intelligence rated as about average
+C: contestants rated questioner as less smart, themselves as more smart
+
+-
+Study 2
+
+Replication of study 1 except participants are observers, everyone else is a confederate.
+
+Watched questioner come up with 10 questions, and contestant had to answer.
+
+DV: ratings of knowledge of questioner and contestants.
+
+- q mean knowledge: 82
+- c mean knowledge: 40
+
+Summary: we are more prone to attribute to disposition rather than situation. 
+
+Study 2, even stronger effect. Demonstrates actor-observer bias. Lack of insight into perspective of actor and under-valuing influence of social environment. 
+
+-
+Self fulfilling prophecy: 
+
+Partipants given role of an interview
+
+IV: white vs black confederate
+
+DV: video taped and measured social cues towards to confederate
+
+Differential treatment of black and white confederates. Both confederates trained to act/answer in same ways.
+
+Interviewers sat further away from black confederates. 
+
+-
+Will interviewer behaviour influence performance?
+
+Flipped, confederates were interviewers.
+
+IV: more vs less positive social cues (eg. longer interview, closer distance, verbal errors)
+
+DV: interview performance rated by observers
+
+Results as expected. 
+
+-
+
