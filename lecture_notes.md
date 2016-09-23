@@ -340,5 +340,59 @@ DV: interview performance rated by observers
 
 Results as expected. 
 
+## Lecture 7 - Sep 23
+
+Social situation derives your identity. 
+
+Slacktivism. 
+
+Sometimes we have specific attitudes towards a behaviour that we don't follow through on. We don't necessarily follow through on our intentions. 
+
+Attitudes have an evaluative component. We think about mental objects, and evaluate them in some way. They are ingrained in our memories. Part of the attitudes are implicit.
+
+We also have affective, behavioural, and cognitive consequences. Dual attitudes - implicit vs explicit. Work together to predict our behaviour. 
+
+When your attitudes are primed in your mind/strongly represented, then you are more likely to act in accordance with your attitudes. 
+
 -
+Study, participants completed go/no go task. Presented with specific stimuli, press a button in response, or not press button. Respond to odd numbers, withhold when given letters.
+
+IV: experimental group develop a specific plan to respond to a number vs control group spent time looking over stimuli. 
+
+Developing specific attitudes and intentions leads to better attitude-behaviour consistency. 
+
+Potent attitudes -> behaviours.
+
+Being inconsistent with our attitudes creates a type of tension. Drawing attention to self-awareness will improve attitude-behaviour congruency. (Cognitive dissonance)
+
+-
+Participants come into lab for a "teaching" experiment. 
+
+Pre-screened individuals for punishment attitudes. Private: I believe that the use of physical punishment could never be considered right.
+
+Public: most people believe that the use of physical punishment could never be considered right.
+
+When attitudes become more salient will make you more likely to be consistent with attitudes.
+
+IV: control vs eye level mirror vs audience (public norms) vs audience (no public norms)
+
+PArticpants had to teach confederate a list of words, shock them every time they made a mistake.
+
+Eye level mirror to induce self awareness, or audience watching, or audience but they weren't evaluating the individual. Hyp: audience evaluating has more of an effect on self awareness than audience not evaluating. 
+
+case 1: only selected people with lower condoning of punishment. These people shocked less than control. Attitudes became stronger predictor. When alone, less consistent with attitudes.
+
+(people who believed in punishment). When they were made self aware, more likely to punish.
+
+Private attitudes -> behaviour when self-aware using a mirror
+
+-
+Theory of planned behaviour.
+
+Behaviour having recursive effect, bi-directional relationship. 
+
+Some actors, in order to get into the mindset, they live their lives that way to think and believe in the same way as that character. Doing a certain behaviour can affect our thoughts and attitudes. 
+
+-
+Stanford prison experiment. Everyone's behaviour became very extreme, stopped experiment early. 
 
