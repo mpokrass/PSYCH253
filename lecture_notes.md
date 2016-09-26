@@ -396,3 +396,162 @@ Some actors, in order to get into the mindset, they live their lives that way to
 -
 Stanford prison experiment. Everyone's behaviour became very extreme, stopped experiment early. 
 
+## Lecture 8 - Sep 26
+
+20 m/c from textbook readings
+
+theme of the course - based on understanding of social psych, not concerned with names/dates. 
+
+-
+Harmon Jones study
+
+Do behaviours increase commitment and change attitudes?
+
+IV: made a difficult (more similar choices) vs easy decision (choose easy thing vs hard thing)
+
+DV: measured attitudes towards decision. 
+
+After you make a decisional commitment to one choice, you start to dislike the other one more, even if liked it more before decision. 
+
+Other examples: foot in the door, saying becomes believing, lowball technique. 
+
+What are the mechanisms behind this?
+
+Might help us cope with the fact that we are forced to do something. 
+
+Cognitive dissonance, Self-presentation, self perception.
+
+Want to present a consistent self to the world. Don't want to perform a behaviour and say you are doing something else. 
+
+We like to resolve our cognitive tension and align our behaviours and thoughts. 
+
+Self-perception: when our attitudes aren't formed yet. We perform behaviours without knowing why, and observe it, and then come up with reasons as to why. 
+
+-
+Self-presentation
+
+We don't want to look like liars. Want to show the world that we are consistent in terms of thoughts and behaviours. If i lose my favourite glasses - I didn't like those glasses anyways. 
+
+Tice study - does our public self-image affect how much our attitudes change following behaviour?
+
+Partipants were told to portray a trait during an assessment interview (even if they didn't have it).
+
+IV: public vs privately demonstrated (one-way mirror)
+
+- emotional stabillity
+- emotional responsiveness
+
+Did behaving this way (private vs public) influence people's attitudes? 
+
+Cross study: either stability/responsiveness, either private/public. So 4 cases. 
+
+Control was athleticism, so extra 2 cases. 
+
+Hypothesis: public presentation changes.
+
+DV: self-ratings of portrayed trait.
+
+Talked on intercom to grad student (public) or recording answers (private). 
+
+After completing interview questions - rate their own traits that they were asked to exhibit.
+
+Those asked to be stable rated themselves as more stable, and vice versa. 
+
+Evidence for self-presentation theory. Present/change attitudes when in a public setting.
+
+In control, self ratings (scale 0-25) were more average (12-13)
+
+All the particpants knew they were being told to act this way, but still internalized it as their disposition. 
+
+Tice - study 2:
+
+replicated study 1 and extended it to see if self-presented behaviour -> attitude -> behaviour.
+
+IV: introverted vs extroverted
+
+IV: public vs private
+
+DV: measured self-ratings
+
+DV: how far they sat away from confederate, how many conversations they initiated with confederate
+
+results:
+
+- self rating in extraversion was lower in those told to be introverted, sat further away from research confederate
+
+We are not changing attitude just for world to see, it also affects our behaviour. Makes our behaviour congruent with actions. 
+
+Self presentation plays a key role in shifting our attitudes following behaviour. 
+
+We want to create a consistent image of ourselves. 
+
+-
+Self justification; cognitive dissonance
+
+We don't want to look/feel like liars. Want our behaviour to match our attitudes.
+
+Conflicting, inconsistent cognitions create tensions. Reduce dissonance by adjusting our thinking and our attitudes (instead of behaviour). 
+
+Changing the behaviour isn't possible because you did it already, can only change cognition. 
+
+Explaining away our behaviour to make our cognitions make sense. Can't undo the behaviour. 
+
+-
+Study: hour long boring peg-turning task. 
+
+Then asked to tell another "participant" that it was fun. How do we resolve this conflict? 
+
+IV: paid either `$1` or `$20` to cover-up experiment.
+
+DV: attitidues towards experiment. 
+
+When you were in low resistance condition (20 bucks), vs high disonance condition (1 dollar). Were told to lie but with insufficient justification. Had to resolve the dissonance by thinking that they liked the experiment more. 
+
+When you don't have sufficient justification and can't explain-away behaviour, then you change your cognition, internalizing it to match the behaviour. 
+
+-
+Self-perception theory (Bem)
+
+We look to behaviour to explain our attidues. 
+
+In this theory, participants observed how much they got paid and this is what dictated their attitudes.
+
+Explains why intrinsic motivation can turn into extrinsic motivation. Over-justification effect: if you receive too much of an incentive for something, do the behaviour because of it, even if you enjoy it. Old man paying kids to play in his yard. 
+
+-
+Fazio
+
+IV: created expectancy vs no expectancy for rewards
+
+tested kids and their motivations to play with magic markers.
+
+DV: time spent playing
+
+Took a picture of kids playing with markers. Brought htem back into lab a few weeks later, gave them same magic markers, told them if they played they would receive reward. Also randomly allocated to priming previous attitudes or not. (pictures of playing with no extrinsic motivation) Would this attenuate over-justification effect?
+
+When there was a low salience of initial attitudes (no pictures) they were demotivated. 
+
+Support idea that people develop attitudes based on observing themselves. 
+
+-
+Zanna + Cooper
+
+Demonstarted that that 1 vs 20 dollar case was a different mechanisms. 
+
+Both theories make same prediction, different mechanisms. Getting paid \$20 makes you enjoy the activity less. 
+
+-
+Misattribution
+
+Cooper and Zanna gave participants a pill (really a placebo) that they said would make them feel aroused. This would create a misattribution, and explain away why they might experience the tension/arousal.
+
+IV: high or low choice situation (not induce cognitive dissonance)
+
+IV: given a pill that was labeled arousal vs relaxation (or no pill as control)
+
+When you could explain away arousal to the pill, the effect of dissonance disappeared. Even greater dissonance if given relaxtion pill. 
+
+This is evidence against self-perception theory and supports the original idea of cognitive dissonance as an explanation for why beahviour -> attitudes. 
+
+Doesn't mean self-perception is totally wrong. When we don't have well-formed attidues (where we cant have dissonance) we rely on behavioural cues to infer attitudes. 
+
