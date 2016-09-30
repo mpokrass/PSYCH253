@@ -555,3 +555,129 @@ This is evidence against self-perception theory and supports the original idea o
 
 Doesn't mean self-perception is totally wrong. When we don't have well-formed attidues (where we cant have dissonance) we rely on behavioural cues to infer attitudes. 
 
+## Lecture 9 - Sep 30
+
+Internal (self-perception, self presentation, dissonance) vs external (convincing argument, new knowledge, inception: the idea seems to be internally driven, persistence, foot in the door, credibility of person) sources of attitude change 
+
+- no hard and fast rules for persuasion, individual differences make us more susceptible to certain arguments. 
+
+Central vs peripheral rules.
+
+- central: facts, actual reasons
+- peripheral: other aspects of our attitudes. implicit automatic associations
+
+Central route processing leads to stronger attitude changes, involves processing of core ideas. Requires motivated audience, difficult and effortful. 
+
+Peripheral route processing relies on cues that are not directly tied to the message content. Affective feelings towards the message/speaker. Complexity of the argument, perceived expertise of the speaker. 
+
+Can never describe a smell to somebody, so cologne/perfume adds use peripheral routes. There's no content, can't accurately portray that the smell is better. Can't make the info available.  
+
+Not as long lasting attitude change. 
+
+-
+Chaiken
+
+How and when do we process peripheral or central cues?
+
+IV: high vs low processing of the message (ie. relevance) (consequences)
+
+IV: peripheral cue: likeable vs not likeable message souce (insulted vs praised undergraduates in an interview transcript)
+
+IV: central cue (message contained 6 vs 2 arguments)
+
+Peripheral cue: chose likeable vs unlikeable speaker's point. Highly influenced about the cue. Not having to think deeply about the subject makes you not think deeply about the content. 
+
+Central cue: more influenced by central cues. 
+
+When issue is relevant, we are persuaded by central cues (strength of argument)
+
+When it's not an important issue, peripheral cues (likeability) more strongly influences attitudes. 
+
+-
+Patzer
+
+Does attractiveness increase credibility?
+
+Participants rated their attitudes towards a fictional pain relief medication that was endorsed by a person (picture) that varied in attractiveness. 84 pictures accross 120 participants, rated on attractiveness.
+
+Studied trustworthiness, expertise, liking. Most attractive people had highest scores in all. Being shown no photo is better than being shown a bad photo of some person (ugly). 
+
+We judge these things based on attrativeness, no effects or interactions with gender.
+
+Why is this?
+Stereotype beauty = good. Evolutionary advantage, symmetry = more healthy. 
+
+Advertisers utilize this with celebrity endorsements. The hot people on adds seem more trustworthy, expert. 
+
+-
+Reason vs emotion
+
+Edwards
+
+Do persuasive appeals need to match their attitude scores?
+
+Eg. getting very sore after first time exercising. 
+
+Manipulated attitudes towards Chinese characters. Looked at tpeople's changes in attitudes towards characters pre and post manipulation.
+
+IV: source of attitude,
+
+- subliminally flashed a face, then viewed a character, then read about it, then viewed it
+- viewed character, read about it, subliminally flashed a face, then viewed a character, 
+
+Also I: given either an emotioal appeal, or cognitive appeal
+
+DV: change in liking of character, confidence in judgement
+
+Negatively affected the thoughts. 
+
+Type of emotional change, or cognitive attitude change message. 
+
+2 happy: 2 angry. Each one has affect based and cognition based. 
+
+When you base your attidue on cognition, have to change it using cognition.
+
+Have to match how they formed the attitude with how the attitude will be changed. 
+
+Attitude changes as a result of both, but stronger effect when you match the method.
+
+summary: subliminal and suprialiminal persuasion both seem to change attitudes. Matching the attitude source is key in maximizing persuasion.
+
+-
+Uncertainty and Persuasion
+
+When they have more strength, more likely to be affected by their persuasion. 
+
+Incongruence (conflicting ideas) generates stronger attitudes because it creates more central processing. Put more attention into what's going on. Behavioural inhibition system (BIS) notices incongruencies and directs attention there - increases central processing in those fields. 
+
+Propaganda vs education: propaganda is 1 sided, no uncertainty. 
+
+Expert sources that exhibit certainty in their opinions and attitudes do not violate our expectations (no further elaboration)
+
+Accordingly, non-expert sources should demonstrate uncertainty. Not a lot of experience in the topic. 
+
+-
+Karmarkar + Tormala
+
+Does conflicting source and certainty chars increase persuasion?
+
+
+IV: source expertise: food critic vs network admin
+
+IV: level of certainty, definitive rating vs wishy washy rating
+
+DV: ratings of attitudes on restaurants
+
+Non expert source + high certainty changed attitudes the most. 
+
+Experts + low certainty changed attitudes more than high certainty. 
+
+We imagine expert to always give us strong definitive results, When they give us uncertain results, makes us think about the message more, makes us accept it more. Primed central route processing, more invested in the review, paid more attention to it. Incongruency increased central processing.
+
+Non-expert source, when opposite happens, very sure of attitude, really catches our attention as well. 
+
+Expert sources that are uncertain are most persuasive.
+
+Also non-expert certain.
+
+Lots of individual differences in persuasion. 
