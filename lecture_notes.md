@@ -681,3 +681,139 @@ Expert sources that are uncertain are most persuasive.
 Also non-expert certain.
 
 Lots of individual differences in persuasion. 
+
+## Lecture 10 - Oct 3
+
+Persuasion depends on central vs peripheral routes.
+
+Trump and wall is persuasion based on peripheral routes, based on speaker.
+
+Credibility can be based on attractiveness. 
+
+Matching attitudes - must be changed through the same route. 
+
+Message channel: once the source and message are chosen, how do we decide how to convey it?
+
+Effect of the audience: msg must be well-received and accepted by the recipient. 
+
+-
+Message channel: how the message is communicated
+
+Central vs peripheral. 
+
+Face to face vs written. 
+
+-
+det Wit et al
+
+In person, can get more information. Messages are provided with more vivid detail and can be more persuasive. Greater attitude changes.
+
+IV: message of increased HBV risk (hep b)
+
+- personal account: narrative, first-person story
+- statistical evidence: matched passage (in length)
+- mere assertion: single statement suggesting male-male sexual relations increases risk
+- control: no statements
+
+DV: mean scores regarding risk perception
+
+Some evidence for the idea that narrative personal accounts can have greater attitudinal changes. 
+
+Individuals in the narrative condition demonstrated highest risk perceptions and intentions to get vaccinated. 
+
+Statistically significant risk mediation.
+
+-
+Bickart and Schindler
+
+How does online (media vs personal influence) information affect consumer behaviour?
+
+IV: students researched one of 5 categories (biking, exercise equipment, supplements, photography, stereo equipment)
+
+IV: corproate websites vs forums
+
+DV: measured intentions to purchase items, knowledge on topics, thoughts and interest in those topics
+
+People showed significantly more interest in product when reading on forums. 
+
+Summary: personalized information vs mass media appeals are more effective. Not controlled for content. 
+
+Reduced perceptions of bias. Central route (written with more thought, demonstrate individualization). Possible empathy and vividness of message. 
+
+-
+Message framing eample
+
+Messages can be written to emphasize losses or gains.  People are attentive to negatively or positively framed messages: negative information is undesirable. 
+
+-
+Smith and Petty
+
+How do people respond to positively or negatively framed message.
+
+IV: negative or positive framed message
+
+- negative: no recycling will elad to landfill use (already x% full)
+- positive: recycling will reduce landfill use (x% full)
+
+IV: weak or storng arguments
+
+- weak: 25%
+- strong: 75%
+
+DV: agreement with message, thoughts listed related to recycling
+
+Negative framing: people were more attentive to the strength of the argument. 
+
+Negatively framed info is more attended to, people are less convinced by weaker arguments. More likely to think deeply about negative messages. 
+
+Is this due to expectation?
+
+-
+Study 2, smith and petty
+
+If we expect positive messages, do we more carefully read negative frames? 
+
+IV: negative or positive
+
+- negative: not taking vitamin k increases risk of heart disease by x%
+- positive: taking k reduces heart disease risk by x% 
+
+IV: weak or strong:
+
+- 0.1% vs 10%
+
+DV: effectiveness of message
+
+Unexpected information draws your attention more (not just negative info). 
+
+Summary: particpants expecting information (positive or negative) were unaffected by argument strength. However receiving a message that violates expectation is more salient. 
+
+-
+Two step process of media
+
+We are all influenced by the media, directly and indirectly. 
+
+People in our social netowrk (on and offline) influence our attitudes. 
+
+Audience characteristics. Not all messages fall on the same set of ears. 
+
+Marketing researches tailor messages to our characteristics. Some individuals are more easiliy persuaded than others
+
+-
+Hirsch et al
+
+Do ads work better when tailored to personality?
+
+IV: received a message based on big-5 personality trait
+
+- 5 ads of different phones with captions aimed to each of B5
+- eg extraversion: with the phone A you'll always be where the excitement is
+- eg neuroticism: stay safe and secure with the phone b
+
+Significant positive correlation with how the advertising worked and correlation with b5 traits. 
+
+Emphasizes that messages should target the audience and be tailored accordingly. 
+
+Resisting persuasion
+
+Counter arguments: key to resisting attitude change, solidifies our initial attitudes. Coutner arguments only work to increase attitudes if we believe our arguments were wrong. gotta believe em
