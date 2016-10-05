@@ -817,3 +817,120 @@ Emphasizes that messages should target the audience and be tailored accordingly.
 Resisting persuasion
 
 Counter arguments: key to resisting attitude change, solidifies our initial attitudes. Coutner arguments only work to increase attitudes if we believe our arguments were wrong. gotta believe em
+
+## Lecture 11 - Oct 5
+
+What is conformity?
+
+"Yielding to group pressures"
+
+Eg. everyone goes to university, marriage, children. Why do we follow things because they are "convention"?
+
+-
+Sherif
+
+How do we develop social norms?
+
+Ambiguous stimulus used to develop artificial norm. Autokinetic effect (stationary light in dark room appears to move)
+
+IV: confederate vs alone
+
+IV: norm distance induced (ranging from 3-8 inches - 7 conditions)
+
+DV: self-reported perceived distance over 50 trials, verbal estimate of average, reported influence of confederate
+
+Reported that the norm was around 8 inches. Also aware that the other individual seemed to influence some of his decisions. 
+
+Participants changed their estimates to match the experimentally induced norm. Carried over to 'alone' trials. 
+
+Not all particpants were aware of external influence. 
+
+-
+Transmission of norms
+
+Culture and traditions, people follow a set of rules/behaviours that we adopt from our social environment (eg. greetings, eye contact)
+
+Why is this the case? What is the adaptive function of cultural norms?
+
+harmony, acceptance, 
+
+-
+Whiten
+
+Trained chimps to acquire food using a tool
+
+IV: poke method vs lift method vs control
+
+DV: adoption of behaviour among the group
+
+Individuals taught a method were more likely to use it. 
+
+Demonstrated methods to other chimps; evidence for social learning. 
+
+-
+Asch
+
+How does group pressure influence our judgement?
+
+IV: in a group (2-15 confederates) vs alone
+
+DV: correct estimates in a judgement task. Estimate which one of 3 lines was most matched to standard line
+
+When confederates were all selecting the wrong line, person did so more. 
+
+Summary: we are strongly influenced by the ones around us, we comply and conform despite our better judgement to fit in.
+
+Outward compliance vs private acceptance (internalization).
+
+Don't necessarily believe the choice you are making. 
+
+-
+Goldstein et al
+
+How does group pressure (in the form of social norms) influence towel re-use behaviour?
+
+Observed client towel usage in 60 days
+
+IV: emphasized how reusing towels was beneficial and norm based (standard environmental vs norm based)
+
+DV: how much towels were reused
+
+More reuse when norm based arguments. 
+
+study 2
+
+How does specific group pressure affect this normative influence?
+
+IV: change the workding of each message to emphasize different social identities. 
+
+Specific targeted messages induced behaviour more. 
+
+Normative pressures are more effective than appeals to values in changing behaviour. Specific normative pressures most effective. 
+
+-
+Milgram
+
+Shock people when told to by someone with "authority"
+
+How willingly obedient are people? What promotes compliance?
+
+Told study was about memory and punishment.
+
+Participant given a sample shock. 
+
+Learner in seperate room for participant. Polled a panel of experts when tehy thought people would stop, they all thought 135 volts (strong shock).
+
+Always underestimate power of situation. 
+
+Obtained behaviour much higher than estimate. 
+
+Milgram manipulated immediacy of victim (proximity)
+
+IV: other room and not heard and seen (until 300 volts) vs learner's protests could be heard (but not seen) vs same room as learner vs after 150 volts, participant had to force their hand onto the shock plate
+
+DV: compliance (protest against the experimenter)
+
+More protest when people are closer together. 
+
+Removing experimenter from room dropped compliance to 30%
+
