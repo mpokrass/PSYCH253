@@ -934,3 +934,165 @@ More protest when people are closer together.
 
 Removing experimenter from room dropped compliance to 30%
 
+## Lecture 12 - Oct 7
+
+We are sensitive to our social environment, conform to societal rules and regulations. 
+
+Conformity: upholding social norms, maintaining collective behaviour. Degrees of conformity, not all behaviour compliance is equally weighted. 
+
+Other societies exist where their norms are different
+
+Naturalistic fallacy: we assume if people do things that are deviant from the norm, that is strange and bad. Just because it's the norm doesn't mean things "should" be that way. 
+
+Proximal explanation: the direct effects of a behaviour, provides are superficial analysis of the purpose (the how)
+
+There is general group pressure to fit in (normative influence)
+
+We lack information and utilize others to help us make sense of the situation (situational influence)
+
+These are reasons why you conform. 
+
+Those able to socially conform demonstarte greater neutral self-control capacity. 
+
+Group-related decison making is also related to greater frontal lobe activity. 
+
+-
+Debono et al (study 1)
+
+Does self-control capacity affect conformity to social norms, specifically injunctive norms?
+
+Injunctive norms - societal pressure (generalized), not everyone necesarily adheres too. Eg. shouldn't be on facebook during classs. Pressure to maintain how things should be. Generalized social pressures. 
+
+Used Baumeister's two task paradigm. Depletion model of self control. 
+
+IV: deplted vs non-depleted:
+
+- typing paragraph task had to inhibit an impulsive response (dep: could not press e or space key, non dep: type everthing)
+
+IV: anon vs identified. 
+
+Adding anonymity makes someone less likely to conform. Don't suffer repercussions of social backlash. 
+
+DV: number of difficult GRE analytical puzzles solved, cheating (binary), amount of time spent completing the tasks (after it was supposed to be done - cheating). Impossible tasks - reporting completed is cheating.
+
+Anonymous and depleted individuals cheated most. 
+
+-
+Study 2
+
+Norms that everyone does (descriptive norms) eg driving on right side of road, facing forward in lecture hall. 
+
+IV: same typing task: depletion vs non depletion
+
+DV: # times participant said 'thank you', also a binary variable of how the experimenter thoughtt ehy were nice. Experimenters blind to study.
+
+More polite behaviour in people who weren't depleted.
+
+Self control ability predicts conformity to social norms. Emphasizes the social nature of social control. 
+
+Study 1: exerting self control resulted in more cheating
+
+Study 2: exerting self control predicted less polite behaviour
+
+-
+Conformity; distal explanations
+
+Public goods game: an experimental task where individuals can either co-operate for larger group rewards or defect for larger individual rewards. 
+
+Everyone puts in 10 bucks, there is a multiplier, everyone gets slightly more.
+
+If one person doesn't put any money in, they still get more given back to him. Eg. everyone 15 vs everyone 11.25 except one guy with 21.25
+
+-
+Adreoni and Petrie
+
+How does idenficication influence conformity in a PGG?
+
+IV: level of identification
+
+- baseline: no info
+- photo of participant
+- information regarding contribution
+- photo and information
+
+When you're given the most identifiable information, most social compliance. 
+
+Being identifiable increases conformity and contributions ot social good. Punishment towards defectors (lose social value)
+
+Modelling behaviour by other individuals. 
+
+-
+Susceptibility to conformity
+
+There are situational influences that increase conformity. 
+
+The more people around you, the more likely you are to conform (group size) 
+
+Informational influence - unaware of what's normal in the situation (lack of knowledge)
+
+Personality characteristics (Agreeableness)
+
+Social norms and culture
+
+-
+Darley
+
+Does fear influence susceptibility to conformity?
+
+IV: fear vs no fear. Told they would receive an electric shock after the trial to test their inner ear (induces fear)
+
+IV: group similarity (made to believe that 3 other subjects (confederates) were also in the same condition, or they were in opposite condition)
+
+2x2 experiment conditions
+
+DV: conformity and agreement. How many metronome beats there are.
+
+Fear and group similarity had highest conformity. 
+
+Just fear also induced conformity. (Fear and no group)
+
+Fear anticipation induces conformity.
+
+-
+Non-conformity
+
+Why do we strive to be unique?
+
+- Ego (social identity)
+- Can represent desirable traits to the opposite sex
+- informative of personality, attitudes, etc
+
+-
+Griskevicius stuy 1
+
+How does self presentation affect our motivation to conform?
+
+IV: different priming conditions
+
+- self protection (fear) scenario prime
+- romantic scenario/attracting a mate prime
+- no passage control
+- neutral passage control
+
+DV: rating of abstract painting (conformity with confederates)
+
+Fear prime - all more likely than control to conform. 
+
+Attractive mate priming - men didn't conform. represenation of how dominant they are, independent. Men didn't conform in the negative condition, individuals rating the abstract painting well (group pressure was to rate it poorly). Representing a positive mindset in the men. Men less likely to be susceptible to group pressures of negativity. 
+
+-
+Study 2
+
+When is an ideal situation for nonconformity?
+
+IV: roantic mating prime vs control
+
+DV: conformity
+
+Objectivity to which answer was correct. 
+
+Conformed less, wanted to be more correct. Seem more attractive to other mates.
+
+Men - doinance
+
+women - agreableness
