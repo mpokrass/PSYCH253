@@ -1096,3 +1096,158 @@ Conformed less, wanted to be more correct. Seem more attractive to other mates.
 Men - doinance
 
 women - agreableness
+
+## Lecture 13 - Oct 14
+
+Moral Licensing, justifying our conformity.
+
+We are motivated to maintain a high-self esteem (sociometer theory), it is an indicator of social value. When we perform immoral behaviours, we don't internalize them, we try to justify them. 
+
+Do people ever consider themselves to be immoral?
+
+Before reprehensible conduct, moral justification and palliative comparison (eg. stealing < killing), euphemistic labeling.
+
+Leads to detrimental effects. Minimizing, ignoring, or misconstruing the consequences.
+
+If there is a victim, dehumanization, attribution of blame. 
+
+Also displacement of responsibility, diffusion of responsibility (eg. millgram exepriment, blame on experimenters)
+
+-
+Vincent et al
+
+Do happy people engage in more moral disengagement?
+
+IV: positive or neutral mood
+
+- recall a life experience that was positive or neutral
+
+DV: moral disengagement scale. (sometimes people deserve crimes against them, etc)
+
+Result: people with more positive affect, agreed with stealing/lying in certain situations. More moral flexibility.
+
+-
+Study 2
+
+Does this moral disengagement lead to immoral behaviour?
+
+IV: 
+
+- positive (vs. neutral) mood; induced using a cartoon clip vs screensaver
+- self-awareness (high vs low); using a mirror
+
+DV:
+ 
+- moral disengagement
+- stealing behaviour; participants completed a difficult arithmetic task and paid themselves based on performance. Each correct problem, got 50 cents for. Compared how many solved vs how much money they took.
+
+People with high self awareness were less likely to steal money.
+
+People with low self awareness were more likely to steal. Even stronger for poisitive affect and low self awareness more likely to steal. 
+
+Positive affect: more likely to endorse negative behaviours, and perform them.
+
+Behaviour is predicted by their attitudes. 
+
+-
+Social facilitation
+
+Social presence facilitates behaviours.
+
+-
+Sympathetic-adrenal-medullary system
+
+Quick acting system, acts out of PNS. Activates adrenal glands, epinephrine.
+
+After the stressor is active for a longer period of time, then hypothalamic-pituitary-adrenal axis. 
+
+-
+Taylor et al
+
+Do supportive vs unsupportive audiences result in stress?
+
+IV: participants performed the trier social stress test (TSST) in varying audience conditions
+
+- no audience
+- supportive
+- unsupportive
+
+Measures salivary cortisol, heart rate. baseline, during task, recovery (within-subjects)
+
+DV: physiological stress; heart rate, systolic blood pressure, salivary cortisol
+
+Result: More stress during task. Positive condition had highest increase in salivary cortisol (even more than negative, though negative was higher than control).
+
+-
+Social loafing
+
+Opposite of social facilitation. When engaged in group and working towards a goal, might slack a little. Reduce effort based on diffusion of responsibility. Less likely to internalize tasks on self and expect to complete them on own.
+
+Expectations on group as a whole, rather than on self. Benefit from the effort of others. 
+
+-
+Fishbach et al
+
+How do we increase goal participation?
+
+Partipants assisted in a focus group. Came up with 10 slogans for a cell phone.
+
+IV: identification with the group
+
+- high: focus group of same Korean university
+- low: other Korean universities 
+
+IV: framing of the task progress
+
+- accumulated: 50% done
+- remaining: 50% remaining
+
+DV: social loafing: number of ideas
+
+Socially distant others: when 50% done come up with more.
+
+Socially close: when 50% remaining come up with more. 
+
+-
+Fishbach study 2
+
+What is the mechanism in these effects?
+
+Told to come up with 50 promotional ideas for a cereal bar
+
+IV: identification with group. Same university vs other universities
+
+IV: framing of task progress. 24 done or 26 to go.
+
+DV: ideas generated, perceived goal value and progress
+
+Goal valuation predicted by group identification and framing.
+
+Random others, contribute more when accumulated.
+
+Socially close: contribute more when remaining.
+
+If the goal is meaningful, will not socailly loaf.
+
+Socially close others generally more ideas in both conditions, less social loafing. 
+
+If you don't care about the goal will socially loaf (for the people who are not within a social group).
+
+-
+Fishbach study 3
+
+Does these effects apply to real world settings?
+
+PArticipants asked to contact friends to spread awareness of earthquake in Haiti. Teamed up with a group of 5 others to contact 50
+
+IV: measured level of identification with group
+
+IV: framing of progress: 24 done, 26 to go
+
+DV: number of friends contacted. 
+
+Result: high identification condition were more motivated when 26 left, rather than 24 done. Perceived goal progress dictates whether or not we socially loaf in high identification.
+
+Low identification: low engagement in both conditions.
+
+Participants low in identification benefit from thinking about accumulated progress. Knowing how much has been done boosts motivation as it increases valuation of the goal, but effects did not transfer to the real world (study 3).
