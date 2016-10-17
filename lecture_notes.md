@@ -1251,3 +1251,148 @@ Result: high identification condition were more motivated when 26 left, rather t
 Low identification: low engagement in both conditions.
 
 Participants low in identification benefit from thinking about accumulated progress. Knowing how much has been done boosts motivation as it increases valuation of the goal, but effects did not transfer to the real world (study 3).
+
+## Lecture 14 - Oct 17
+
+Pluralistic ignorance - bystander effect. Use people for social cues, their inability to act causes you to misinterpret the situation.
+
+Deindividuation - loss of self awareness. When we lose self awareness, we no longer retain social norms/standards and out behaviour changes as a result. We perceive ourselves as individuals. Consequence of this is disinhibited behaviour. Less self control. More self-disclosure on the internet, a lot more anonymity. Unsupervised children were more likely to take more candy because couldn't be identified. More impulsive tendencies, lack of self control and executive functioning. When you remove yourself from a social environment, more likely to perform disinhibited behaviours that are antisocial in nature.
+
+We can feel deindividuated when in large groups (riots) or music festivals (mosh pits). Youtube comments, mean tweets. People give into their impulses when no identifying info. In a lot of situations, become more aggressive, unless prosocial cues.
+
+Deinviduation leads to disinhibition. Simple concrete behaviours in unison in a large group, stealing of conformity, loss of slef. Eg. marching in large group, consuming alcohol. Eg. welcome week cheering. 
+
+-
+Worchel and Andreoli
+
+Do we individuate other people advantageously?
+
+Teacher/learner.
+
+Individuation information; name, personality, physical characteristics, habits, background, mottos
+
+Deindividuation information; age, hometown, race, present residence, political party, religion
+
+IV: affect (as learner)
+
+- angry (negative feedback)
+- not angry (positive feedback)
+
+IV: feedback behaviour (as teacher)
+
+- shock
+- reward
+- nothing, just record
+
+IV: recall (this condition is less important)
+
+- before feedback behaviour
+- after feedback behaviour
+
+DV: deindividuation of target (how much info they remembered)
+
+Result: when participants had to shock targets, were more likely to deindividuate the learner. Don't want to create realistic depiction of person, don't want to think of them as a person. Congruent to Millgram's proximity to person being punished. Mirror neurons that fire when you observe pain. The more individuation you give to someone (also details) you also experience their pain. So when they knew they were going to shock people, less incidence on identifying information.
+
+Result: when angry (form of disinhibited information), less likely to pay attention to individual in terms of specific information, more deindividuation.
+
+People with positive feedback less likely to deindividuate when told they were going to give positive feedback. 
+
+Rewarding behaviour increases recall of individuating information. Less likely to add vivid details to person. Converse when we anticipate aggression. 
+
+Eg. sports events: us vs them, prepares us for competitive/aggressive behaviour. Situations of moral licensing (de-humanization). Also when focused on selfish gains, anarchy, us vs the man. 
+
+-
+Pluralistic ignorance
+
+Why do people wait until the end of class to ask prof questions?
+
+We use our social environment to gain information. 
+
+Sometimes this backfired, leads to pluralistic ignorance. Eg. no one is asking questions because they all get the concept - but other students thinking same thing, no one wants to be judged. Assume everyone else understands concepts. 
+
+-
+Prentice and Miller
+
+Pluralistic ignorance towards alcohol consumption. 
+
+It's not the norm to drink in a reserved manner. 
+
+Asked students their opinion on alcohol consumption habits at the university (princeton)
+
+Said their habits and avg students habits
+
+IV: self vs others' comfort/endorsement with alcohol habits
+
+- self vs average (Study 1)
+- self vs average vs friend (Study 2)
+
+People's overall acceptance of drinking was below midpoint. People don't really endorse heavy drinking. Thought that average student endorsed it.
+
+Over estimate everyone's endorsement of alcohol. Everyone is conforming to this norm regarding excessive drinking. 
+
+Same effect in study 2. Avg > friend > self. Didn't endorse as much as avg student, but more likely to support culture of excessive drinking. 
+
+This indicates pluralistic consumption. 
+
+Study 3: do these perceptions eventually lead to attitude change? Will you eventually follow the norm?
+
+Telephone interviews of students, 2 times during semester
+
+IV: self vs others' comfort with alcohol habits
+
+- self vs avg
+- 2 time points (within subjects)
+
+DV: rating of comfort
+
+Women less likely to endorse norm + change attitudes and behaiours. Women more or less maintained refute of this norm.
+
+Men changed their attitudes to better match what the social norm was. Believe in the culture and follow along with the norms. 
+
+Males more likely to internalize perceived group norms and adjust attitudes towards these norms. Femalses resisted attitude change.
+
+Author say that this may be biased, because men might be more predisposed to alcohol consumption norms than others. 
+
+Individuals can mispredict feelings/attidues of their peers and follow along with norm that may be unreliable. 
+
+-
+Shelton and Richeson
+
+7 studies that demonstrated that people mistakenly believe racial outgroups are disinterested in social interactions.
+
+study 2:
+
+Can pluralistic ignorance explain intergroup relations?
+
+Participants imagined entering a dining hall and rated their interest in sitting with (white or black) students
+
+IV: white vs black
+
+IV: self vs others' rating (within-subjects)
+
+DV: interest in interaction
+
+White individuals rated black individuals a bit over average (outgroup). When asked to rate what that group thought of them, rated low interest (black people didn't want to sit with them much). 
+
+Participant misperceived norms. Believed outgroup race less interested in contact. Perceived lack of interest is in reality due to fear of rejection.
+
+Studies 5 and 6:
+
+IV: fear of rejection vs lack of interest
+
+IV: self vs others' ratings
+
+DV: magnitude of ratings and interaction with outgroup
+
+Result: people very afraid of being rejected by other social group, perceived lack of interest for them to integrate with self. Outgroup had the same thoughts as well. Disarity of information transfer. 
+
+Own fear of rejection negatively predicted contact with outgroup. Interaction with ingroup, more likely to associate with ingroup if fear of rejection with outgroup. Higher intragroup contact less likely to interact with intergroup. 
+
+Summary: we make assumptions which lead to pluralistic ingorance when misperceiving intergroup relations.
+
+-
+Groupthink
+
+Large groups elicit strong conformity which can overcome rational thinking and assessment. People conform because they are misinformed and going along with crowd. 
+
+The larger the group is, the larger the group consensus, the larger the drive to conform is. More likely to face large-scale ridicule if you don't conform. Leads to group polarization, risky shift. No one wants to argue position, becomes magnified, more extreme, people less likely to dissent. 
