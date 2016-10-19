@@ -1396,3 +1396,127 @@ Groupthink
 Large groups elicit strong conformity which can overcome rational thinking and assessment. People conform because they are misinformed and going along with crowd. 
 
 The larger the group is, the larger the group consensus, the larger the drive to conform is. More likely to face large-scale ridicule if you don't conform. Leads to group polarization, risky shift. No one wants to argue position, becomes magnified, more extreme, people less likely to dissent. 
+
+## Oct 19
+
+Darwin and the Galapagos finches
+
+Lot of stark similarities in physical/anatomical shape. Are they actually different species? Maybe there's a common factor that connects these animals together.
+
+Beaks had developed in a way to become more adaptive to the environment they lived in. Phenotype that different was size and shape of beak. Adapted beak for the kind of food they ate. 
+
+-
+Altruism: exhibiting helping behaviour without any need or reciprocity. 
+
+Is there really such a thing? Selfish genes survive - survival of the fittest. 
+
+Supported by comparative psychology (cross-species study) as well as neurisocience. 
+
+Inclusive fitness; organisms that successfully pass on their genes are the ones that perpetuated. 
+
+Other factors, not just whether individual lives or dies.
+
+Eg. meercats, their group will forage for different foods. Certain meercats sacrifice their own well being (act as sentries) and watch for predators. 
+
+-
+Hamilton's rule
+
+We might help if ` rb - c > 0 ` where r = relatedness, b = benefit, c = cost
+
+We are more altruitistic when we are related to people. Kin selection
+
+In some situations, we help people who are unrelated to us. Eg. dog nursing tiger puppies. 
+
+If there's no benefit to altruism, it will eventually get selected out. Traits that are useless would be phased out.
+
+So there must be some sort of benefit to altruism. 
+
+We feel indebted to people who are altruistic to us. Might push us to return the favour. (direct reciprocity)
+
+Indirect reciprocity
+
+-
+Direct Reciprocity
+
+Repeated interactions predict greater cooperation.
+
+Public goods game - reductionist view of social environment. Psotive benefits if everyone contributes to public good. Make most money if you cooperate. If you are a defector, you make money from those who put it into the pool. Simplistic view of what cooperation can produce, and situations where you can increase/decrease cooperation. _Distal explanation_ of social behaviour. Conflict between high individual gains vs collective group gains
+
+Prisoner's dilemma = simplified version. Both confess = long sentence, only one confess, 0 sentence for the one that confesses. If both silent, smallest sentence. Safest to always give up information, in this case. Staying quiet is the socially acceptable thing to do, but tattling is the most self serving, but less good for the group as a whole. 
+
+-
+Komorita study 1
+
+Do people demonstrate altruism in a direct reciprocity scenario?
+
+Group decision making game, no identifiable info, two options: co-operate or defect
+
+IV:
+
+a) 3 real people
+b) 2 real people, 1 programmed with tit for tat (TFT) strategy for one of the two players
+c) one real player, one programmed to cooperate on trial 1, then TFT for rest, the other defects on trial 1, then TFT for the rest
+
+TFT, copy what you just did
+
+DV: percent of cooperation
+
+In (c), effective to cooperate with peers, cooperate more.
+
+-
+Komorita Study 2
+
+What if the group size increases and randomness is introduced?
+
+5 person group
+
+IV: condition
+
+a) 5 real people
+b) 1 real person, 4 random
+c) 1 real, 4 programmed, 1 did TFT, 1 did TFT with first program, 2 did random responding (overall 33% cooperation)
+d) 1 real person, 4 programmed; same as above, except the last two (not random, did majority decision)
+
+Result: Highest level of cooperation in condition d
+
+There was a general baseline of cooperation.
+
+-
+Indirect Reciprocity
+
+Helping other people might bring status, reputation. Displaying traits that you are a cooperative individual, other people may come to my aid. Indirect benefits through reputation or alternative related actor. 
+
+-
+Hardy and Van Vugt Study 1
+
+High schoolers played PGG in groups of 3 (66 total)
+
+\$1.75 to personal vs joint pool, only 2 rounds
+
+Indirect benefits to being the biggest giver. 
+
+IV: reputation vs no reputation (identifiable)
+
+IV: round 1 vs round 2 (within subjects)
+
+DV: percentage of cooperation
+
+When you are identifiable, cooperate more in the 2nd round. 
+
+More they donated, higher overall perceived status by other 2 participants. People who offered the most money had the lowest resources at the end of the game. There is a cost to altruism.
+
+-
+Study 3
+
+Is reputation and altruism a dose-response relationship?
+
+Watched a PGG game, 4 players were allocated seperate resources (\$10 or \$5)
+
+IV: perceived altruism
+
+a) got 10, gave 5
+b) got 5, gave 5
+c) got 10, gave 1
+d) got 5, gave 1
+
+Highest status for b, lowest for c.
