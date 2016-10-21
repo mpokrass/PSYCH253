@@ -1520,3 +1520,138 @@ c) got 10, gave 1
 d) got 5, gave 1
 
 Highest status for b, lowest for c.
+
+## Oct 21
+
+Hardy and Van Vugt Study 1
+
+Will having reputation increase altruistic behaviour? (reciprocity theory)
+
+High school students participated in the PGG in groups of 3 (total 66). 
+
+(sidenote: prisoner's dilemma is only 2 choices, in PGG many options b/c can give any amount of money, gives a continuous measure). 
+
+Asked participants to distribute $1.75 to personal vs joint pool, only 2 rounds, some particpants given identifying feedback after round 1
+
+IV: reputation vs no reputation (anonymity)
+
+IV: round 1 vs 2 (within subjects)
+
+DV: percentage of co-operation, perceived status of partners
+
+Result: Motivated to give more money when there was identifiying info. 
+
+In reputation round, second round increase in co-operation. 
+
+Also asked about status of people (eg. how likely would you be to ask them to be the leader of another group), results were amplified by how much they contributed to the group fund. 
+
+-
+Study 3
+
+Is reputation and altruism a dose-response relationship? If you derive a reputation for how much you give, will you receive a proportional gain in reputation based on how much you give?
+
+Watched a simulated PGG (they were confederates). 4 players were allocated resources (either \$10 or \$5)
+
+IV: perceived altruism
+
+a) high resources/high contribution (got 10, gave 5)
+
+b) low resources/high contribution (got 5, gave 5)
+
+c) high resources/low contribution (got 10 gave 1)
+
+d) low resources/low contribution (got 5 gave 1)
+
+DV: perceived status of partners, partner selected for a second game
+
+Result: perceived status was dependent on relative amounts they gave. Highest status for (b),  lowest status for (c). 
+
+(b) > (a) > (d) > (c) 
+
+There are benefits from altruistic that aren't always tangible, can earn social benefits (eg. status). Altruism reputation relationship is relative and depends on individual situations. 
+
+-
+Empathy
+
+If you feel empathy, when observing someone in distress then you are motivated to minimize their distress (altruism in an effort to minimize those feelings). Some have suggested we are altruistic because of empathy. 
+
+-
+Mirror Neurons
+
+Neurons that become active when observing another individual AND when performing a behaviour oneself. Effective in empathy. We experience it as if we are doing it ourselves, similar structure. 
+
+Some propose this to be a primitive form of theory of mind. 
+
+-
+Rizzolatti (don't need to memorize this)
+
+Testing idea of mirror neurons. Recorded electrical activity in visuomotor neurons in macaque monkeys. Demonstrated behaviours for monkeys to observe. Had monkeys repeat behaviour.
+
+Activity in specific neuron was related to both observation and action. 
+
+Mirror neurons in areas of sensation-perception are active when viewing others' emotions. Strong connections to amygdala, other emotional centers of the brain. 
+
+Mechanism for motivated, altruistic behaviour. We feel what we see and are motivated to reduce those feelings and act on them in some way. 
+
+-
+Classic helping studies
+
+When do we help? Kitty Genovese got stabbed in front of 37 people and no one did anything. Why? Did people become deindividuated? 
+
+-
+Darley and Latane
+
+Participant was in individual cubicle "having a discussion over an intercom". Played the taped conversation to all participants. 
+
+Discuessed personal problems in a 1-1 manner. One "Participant" talked about an issue with having seizures. Told that only one person can speak at a time. 
+
+In the middle of seizure discussion, person makes seizure sounds, then goes completely silent. Experimenter isn't in room, see what participant does. 
+
+IV: perceived group size (2, 3, or 6)
+
+Beleieved that theere was:
+
+- just the other person
+- 3 people in total
+- 6 people in total
+
+DV: time it took to get help from experimenter.
+
+Result: when participant alone, helped 85% of the time. As group size increased, less and less likely to help the individual. Mirrored by time to help. Less time to help the smaller the group size was. Idea of diffusion of responsibility. Knew other people were listening, assumed someone else would help. Social loafing and conformity; people aren't doing anything becasue don't take on the effort. Aslo pluralistic ignorance. 
+
+-
+Study 2
+
+Actual people this time. Participant waited in a room (either alone, with confederates or 2 other participants) for a study to begin and filled out questionnaires. The room slowly started to fill with smoke from a wall vent (began to obscure vision).
+
+How long would it take people to respond?
+
+Confederate would just look at the smoke, shrug it off and not respond. Pressure to not react to the situation and keep working on questionnaire. Eventually smoke filled up the room and obscured vision.
+
+IV: 
+
+- alone
+- particpant and 3 confederates that were passive and ignored the smoke (pressure to conform)
+- 3 actual participants all naive to the purposes of the study and unacquainted with each other
+
+DV: Time it took to notify the experimenter
+
+Result: notifying experimenter: Alone 75% > 3 participants 40% > condition 2 10% (explained away some reasons). 
+
+-
+Latane and Rhodin
+
+Participants completed a "market research study"
+
+Experimenter explained study and then said she would be working in the room next door (collapsible door). She shuffled for several minutes, then played an audio recording with noises that siggested she had climbed a chair and something fell on her ankle, then complained about her ankle. "Damsel in distress" idea, someone is clearly hurt, unlike smoke situations.
+
+IV:
+
+- alone
+- participant and a passive confederate
+- 2 actual participants that were strangers
+- 2 participants that were friends
+
+DV: percentage of people taking action
+
+Result: 1 ~ 4 > 3 > 2
