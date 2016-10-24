@@ -1655,3 +1655,152 @@ IV:
 DV: percentage of people taking action
 
 Result: 1 ~ 4 > 3 > 2
+
+## Oct 24
+
+Lots of aggression on the internet. Deindividuation/anonymity in cars and online. 
+
+Physical and verbal behaviour intended to hurt someone. Hostile vs instrumental aggression. 
+
+Hostile - reaction to the environment, hot-tempered, reactionary aggression
+
+Instrumental - planned and used for some other purpose (eg. terror attacks) 
+
+Has kind of been debunked though (false dichotomy)
+
+Aggression is defined as a response that delivers nexious stimuli to another organism. The term attack can be used as a synonym. 
+
+Negative affect derived from somebody slighting you. Lack of self control can affect aggression. Moral licensing, deindividuation. Narcissism (low implicit, high explicit self esteem). 
+
+-
+People with impaired prefrontal cortex activity show increased aggression. 
+
+Executive functioning is used for self-control and inhibits impulses.
+
+Cranial current stimulation (activating prefrontal cortex) can reduce incidence of aggression.
+
+Prefrtontal cortex is youngest development of brain (evolutionarily new). Instinct towards aggressive actions, but we've developed this structure to inhibit/control it.
+
+Social behaviour (in general) requires self control. We've developed this structure to inhibit the response. 
+
+Left frontal assymetry is correlated with aggression (also with reward behaviours, suggesting that anger is in some way rewarding). Eg. stubbing toe, venting anger. Anger is rewarding and feels good, but we use outer brain structures to inhibit these. Don't always want to be reaping hedonic rewards, for social benefit.
+
+-
+Frustration aggression hypothesis
+
+Dollert et al
+
+Frustration always leads to an aggressive response. 
+
+For behaviours we expect a particular outcome, when that outcome is not met then we experience frustration. Original hypothesis formed in relation to goal achievement. Want to perform noxious behavior in some way. 
+
+-
+Relative deprivation and aggression
+
+Lyuboomirsky and ross
+
+Social context matters (upwards and downward social comparisons)
+
+When individuals experience inequality compared to their peers, it results in more violent crimes. (inequality aversion). Not absolute deprivation, absolute. 
+
+Blacks relative feeling of injustice predicted militant behaviour. 
+
+Supports the idea of "goal expectation", where failure to meet that expectation leads to aggression. 
+
+Self-control has been associated with social behaviour. Both neural indicators and self-report measures. Also supports our claim that anger is anti-social. 
+
+anger seems to be a primitive instinct coming from lower level areas of the brain. 
+
+-
+DeWall et al study 1
+
+Does exerting self-control increase aggressive behaviour?
+
+Participants asked to write an essay about abortion and rate their own food preferences. Completed with a confederate in another room, gave feedback on the other person's essay.
+
+Performed a "taste test", given a donut (or radish) but just before eating it, told to stop
+
+Experimenter returns 5 minutes later and gives feedback from partenr (negative ratings) as well as a profile of their partner's food preferences (disliked spicy)
+
+Asked to administer a taste test of chips to partner
+
+IV: depletion vs no depletion (resist eating donut or radish)
+
+(all got bad feedback)
+
+DV: how much hot sauce they decided to administer
+
+Result: people who were depleted gave more hot sauce to the confederate. Didn't report more anger, just aggressive behaviour. 
+
+-
+Study 2
+
+Another essay writing task with a "partner" evaluator
+
+Essay about abortion (5 minutes) and then watched a 6 minute video with no audio that had sitracting text
+
+measures of mood (with frustration added)
+
+given feedback on essay (positive or negative)
+
+IV: depletion vs not (had to resist reading words, annoying subtitles)
+
+IV: negative vs positive feedback
+
+DV: length/intensity of annoying noise blast
+
+Result: no singificant difference in self-reported frustration. 
+
+Result: more aggressive behaviours when negative feedback. Most aggression when provocation and depleted. Being provoked in some way - natural response is aggression. We divorce that capability (because of social norms) when we are not depleted. 
+
+Summary: exerting self-control alone does not lead to frustration/aggression (study 2). Being given negative feedback in addition to self control depletion resulted in more aggression. 
+
+-
+Aggression and apology
+
+We aren't always aggressive eg. if the situation suggests it was unintentional. If you can't blame the frustration on something - no anger, nowhere to aim it. 
+
+Apologies reduced feelings of anger and aggression. If people are able to repent/show remorse, convey internal mental state, supporting social connection and offering more social information. We are less able to deindividuate. Mitigates fundamental attribution error. 
+
+-
+Struthers et al
+
+Does apology always lead to forgiveness and reduce aggression? Doesn't always feel sincere. 
+
+Participants completed a group work and communication task with a partner. Read a section of psychology textbook and answer 10 questions. Confederate (un)inentionally hit a joystick they were told not to touch which deleted all the answers. 
+
+IV: intention (disregard experimenter) vs no intention (accident while reaching for something)
+
+IV: apology vs none 
+
+DV: forgiveness rating, liking of confederate rating, and number of ballots entered for \$50 draw. 
+
+Result: 
+
+- accident: apologizing increased forgiveness behaviour. 
+- intended: no significant differences in forgiveness based on apology. 
+
+More ballots = forgiviness. 
+
+-
+Struthers et al Study 2
+
+Comunity sample of workers, read about a work scenario where them and a coworker had to meet a deadline.
+
+Failed to meet the deadline (because of co-woker) and had to forfeit a cash bonus and promotion.
+
+Then overheard a phone call between co-worker and spouse where they either intedned to (or did not) miss deadline.
+
+Participants then read about either receiving an apology or not. 
+
+IV: intention vs not
+
+IV: apology vs not
+
+DV: effect of apology. TRIM
+
+People were more forgiving if apology + no intent. If there was no intent, apology doesn't help much. 
+
+Summary: apologies used to increase forgiveness (pro social behaviour). TRIM (transgression responsE)
+
+Apology sincerity plays a role in effectiveness. 
