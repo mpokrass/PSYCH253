@@ -1804,3 +1804,156 @@ People were more forgiving if apology + no intent. If there was no intent, apolo
 Summary: apologies used to increase forgiveness (pro social behaviour). TRIM (transgression responsE)
 
 Apology sincerity plays a role in effectiveness. 
+
+## Oct 26
+
+People with more self control have more forgiveness propensity. 
+
+Frustration does not always lead to aggression. Too simple, behaviourist perspective. People control their aggressive tendencies. 
+
+Anger and frustration can be aimed at an unrealted target (displacement). 
+
+Instrumental aggression, but useless dichotomy. 
+
+Displacement resulted in the catharsis hypothesis; release of anger should eliminate aggressive tendencies.
+
+Study found that reading pro (vs anti) catharsis message lead to increased aggressive behaviour. 
+
+The brain; spreading activation network and learning theory predicts higher aggression with catharsis (learn that anger is good in the situation). Practicing aggression will only further solidify the relationship in the brain. 
+
+-
+Violence-related media
+
+Hypothesis: Always seeing or practicing violence on TV increases aggression.
+
+Viewing more violent material desentitizes or habituates us. We are less disturbed by more extreme material. 
+
+Social learning theory (bandura): we look to other individuals to shape our own behaviour. Acts as a model of aggressive behaviours. Kids play with sticks that look like guns; media shapes their neural system to find these cues acceptable. 
+
+Longitudinal correlational evidence supports the idea that violent media -> more violent behaviour. 
+
+-
+We respond to our environment unconsciously. Aggressive cues are no different, also prime our behaviour. 
+
+Berkowitz "sometimes the trigger pulls the finger" - our environment can shape us.
+
+Aggressive cues are important; not just frustartion -> aggression, people select aggression when its adaptive. 
+
+-
+Berkowitz and lepage
+
+Participants were involved in a learning study testing stress responses. Come up with ways a publicist can increase popularity of an artist. Then read another partner's topic and administered shocks.
+
+Idea was evaluated using shocks (1=good, 7=bad)
+
+When participants administered shocks, were different cues near the machine.
+
+will having weapons (env cues) increase aggression?
+
+IV: angry vs not (got more shocks, 7 vs 1)
+
+IV: weapons (relevant) vs weapons (peripheral) vs no objects vs control objects
+
+Womens were described as belonging to the other participant, or as left over from a previous experiment in the room. More attention to relevant cues. 
+
+DV: number of shocks given
+
+result: No significant difference between relevant and peripheral cue. However weapons induced more shocks (only when angry)
+
+People are subconsciously affected by environmental cues (all denied influence of the weapons on behaviour). Weapons increased number of shocks given and shock length.
+
+Gun ownership regulations - fewer aggressive primes in Canada than US. 
+
+-
+Consequences of aggression
+
+Aggression is anti-social; it damages social relationships but is it always bad? Eg. mom protecting cubs
+
+People use aggression "adaptively" in ways to influence social relationships. An avenue for altruism is that people socially exclude those unwilling to conform and contribute to collective good.
+
+There are also personal consequences of experiencing and performing aggression. What happens to the actor following aggression?
+
+-
+fischer and roseman study 1
+
+How is anger and contempt utilized in a social context?
+
+Anger: very direct
+
+Contempt: indirect anger, disparages the other person, ignores them, etc. Don't seem to offer any benefit, so exclude from social circle. 
+
+Participants recalled an event where the experienced anger vs contempt, then rated a series of statements
+
+IV: anger vs contempt
+
+DV: self perceived ratings of anger/contempt
+
+result: people who remembered anger reacted with anger more, people who remembered contempt reacted with contempt more. 
+
+People who recalled anger rated that they were more intimately related to the object of anger. More verbal confrontation for anger. 
+
+More derogation/exclusion for contempt. 
+
+More coercive when angry, try to change their behaviour. 
+
+More perception of being in control when angry. 
+
+-
+Study 3
+
+Do anger and contempt responses differ based on closeness?
+
+Imagined a scenario; coming home late on public transit and drunken friend (vs stranger) aggressively insults them, then rated similar statments to study 1
+
+IV: friend vs stranger doing the verbal attacking
+
+DV: self perceived ratings
+
+result: People felt same rating of contempt for friend and stranger.
+
+People were less angry towards a stranger, could distance themselves more easily. More likely to verbally attack friend, derogate stranger. More likely to coerce the friend. Excluded the stranger more. 
+
+More reconciliation with friend. More rejection towards stranger. More control with friend. 
+
+Social exclusion is very passive aggressive. 
+
+"The social function of anger can be conceptualized as attaining a better outcome by forcing a change in another person's behaviour."
+
+People get angry in close relationships but not distant ones. 
+
+Suggests that people use anger to get what they want because it changes our perception of the scenario. 
+
+-
+Keltner et al
+
+Participants read a vignette meant to induce sad or angry emotions, then read another story about being romantically "lead on" by someone (frustration).
+
+IV: sad vs angry vd neutral (imagined mom suddenly died vs negative feedback in public setting from TA unfairly vs international businesses)
+
+DV: rating of other scenario
+
+Result: 
+
+- anger: see event as the fault of the other person
+- sad: maybe realize that there was a misunderstanding, not that the other person was "out to get" them. See situation as hopeless. 
+
+People in angry condition focus on a specific scenario and express anger at the person that slighted them. In sad condition try to distance themselves.
+
+-
+Keltner et al
+
+Do people feel more personal vs situational agency when angry vs sad?
+
+Personal agency - have control over the event that occurred, you are the related actor. 
+
+Situational agency - understand that outside circumstances caused the situation. 
+
+Participants told it was an experiement on imagining hypothetical events, read the same vignettes as before as well as 2 that primed personal and situational agency.
+
+IV: angry vs sad vs personal vs situational
+
+DV: rate the likelihood that an event occurs.
+
+Result: anger is related to agency and control over environment. Sadness causes focus on situational agency. 
+
+Anger generates a sense of control, primes us to act and change situation.
