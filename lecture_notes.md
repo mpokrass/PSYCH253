@@ -1957,3 +1957,139 @@ DV: rate the likelihood that an event occurs.
 Result: anger is related to agency and control over environment. Sadness causes focus on situational agency. 
 
 Anger generates a sense of control, primes us to act and change situation.
+
+## Oct 28
+
+(not on midterm)
+
+Individual social processes
+
+Social situations influence our own cognitions and behaviour. social beliefs, persuasion, conformity, group influence, altruism, aggression
+
+Our brains are programmed to make us inherently social (eg. mirror neurons, theory of mind). 
+
+Groupthink - make decisions as a group, no longer an individual influence. Social situations can influence a collective group. 
+
+Can group people into students, athletes, etc. Descriptions of self because you have a social identity. Way that you perceive yourself personally (privately) but also a characterization socially.
+
+-
+Group social processes
+
+How do we define groups? Those that are similar to us:
+
+- physical similarity = kin selection theory
+- value and goal similarity = group selection/network reciprocity
+
+The ingroup bias: even when we think of our 'group' we are egocentric.
+
+Also egocentric when we are young. 
+
+Minimal group paradihm.
+
+Study where people are shown a bunch of dots and told to estimate. Told that 'you fall into the category of over estimators, and there is another group of underestimators'
+
+Following the feedback, in 2nd part of experiment, given a set of rewards. You are not included in the group, but preferrentially divide resources to 'your' group even though you do not benefit. You are affiliated with the group, they might reciprocate. 
+
+-
+Prejudice
+
+the ingroup bias sometimes leads to prejudice.
+
+Prejudgements about a group of people that leads to overgeneralizations and discriminatory behaviour. 
+
+Eg. the homeless and needy; lazy dependents on social programs? drug addicts? Why don't they go get a job?
+
+Eg. mental illness and weight stigmas. We might attribute personality factors to people with different body types. overweight = lazy, thin = bitchy
+
+Heuristics that we follow
+
+Why do we maintain these unfair judgements towards groups of people?
+
+Belief in a just world. People have _agency_ which makes us believe people are deserving of their situations. You have control over your environment. If these people are in bad circumstances, they did it to themselves. Believe the world is fair and just. 
+
+Makes us believe that people are deserving of the situations they are in.
+
+Randomnness and uncertainty is aversive/uncomfortable; it impairs action. People don't want to belive that they are in their circumstance because of randomness. To truly accept that the world is constanty random, you're not deserving of the things that you have - can crush self esteem, lose feeling of control, agency. We cognitively avoid this thought, create a framework that makes sense: effort you put in comes back equivalently. 
+
+Having a sense of justice and belief in a fair world drives us to maintain prejudice. System justification theory (psych 350). Mostly people with conservative values like structure/order; most susceptible to threats/uncertainty. 
+
+-
+Another cause for prejudice is group comparisons. We perform social comparisons at different levels; ingroups and outgroups are a macro level social comparison. 
+
+We want to boost our self esteem by having a valuable, unique and desirable ingroups (compared to the outgroup). Eg basking in reflected glory. When team won 'we won', when lost 'they lost'. Preferential language to connect/remove yourself from groups associated with social identity. 
+
+Group serving bias: same as self serving bias, motivated to believe that our group is the best or better than others. 
+
+Realistic group conflict theory: we are competing for limited resource and developed innate dislike/competition with outgroups. 
+
+-
+Sherif
+
+Young boys 9-10 went to a state park, had them stay at the park in different bases.
+
+2 phases:
+
+1. groups don't know about eachothers existenct, playing, developing group cohesion
+2. introduced to other group, couldn't play because other group was fighting for the same resources
+
+Boys started to become competitive/prejudices. Fighting over shared resources. Until the groups were brought into a problem they couldn't tackle individually, they had to work together. This eliminated the conflict with the outgroup. 
+
+-
+Personality, beliefs and attitudes; social dominance orientation and authoritarian personalities. (effort begets rewards, punish those who perform poorly)
+
+-
+Sexism: unfair judgements based on sex. 
+
+Glass ceiling: cap on how much women can make in comparison to men. (same position)
+
+Sexual harassment: we still objectify women, but is it really our fault?
+
+-
+Chivalry perpetuates gender stereotypes.
+
+Benevolent sexism (see psych 350 notes)
+
+- protective paternalism: women need men's protection
+- complementary gender difference; purity
+- heterosexual intimacy; men need women to be truly happy
+
+These ideas lead to benevolent sexism, preferrential treatment. 
+
+-
+Becker and Wright (study 1)
+
+Does benevolent sexism reduce women's intentions to take collective action?
+
+Participants completed a memory study, read 6 sentences and answered questions that 'may or may not be' related. 
+
+IV: benevelont sexism vs hostile sexism vs gender neutral vs gender unrelated
+
+DV: ratings on collective actions intentions and cognitions/beliefs
+
+- action: i would participate in a rally for gender eqality
+- cognition: gender specific system justification, perceived advantages of being a woman
+
+Result: benevolent sexism - less likely to participate in rally
+
+-
+Study 2
+
+Does benolvent sexism reduce actual behaviour as well?
+
+Same as study 1, then given an unrelated task of taking/giving out flyers and signing a petition (supporting women's rights or autonomy for students)
+
+IV: smae 4 cognitions
+
+DV: same cognitions and collective action behaviour
+
+Result:
+
+- bs: less likely to take flyers and sign petition
+- hs: more likely
+
+Participants all women
+
+-
+Study 3 and 4
+
+Does changing gender-specific system justification and perceived advantages lead to changes in collective action?
