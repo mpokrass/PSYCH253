@@ -2093,3 +2093,124 @@ Participants all women
 Study 3 and 4
 
 Does changing gender-specific system justification and perceived advantages lead to changes in collective action?
+
+## Oct 31
+
+Developing and using stereotypic information is easier and requires less cognitive effort. Reduce cognitive load using broad categories (spreading activation networks). 
+
+Low prejudice individuals exert effortful self-control toward their reactions to outgroups. 
+
+Media supports stereotypes and further maintains them. Similar to violence in the media and learned aggression. 
+
+As a result, stereotypes are implicitly stored and can become activated when there is insufficient cognitive effort. Eg. IAT
+
+Low prejudice individuals primed with a negative stereotype prior to evaluation give more negative ratings. 
+
+Must be cognitively aware of behaviour at all times. 
+
+Outgroup homogeneity vs ingroup heterogeneity. We don't analyze outgroup people traits very much until it's goal relevant (ingroup). Spend cognitive effort to get to know them.
+
+You notice how different people are when they are in your ingroup, not as much in outgroup. 
+
+We naturally perceive outgroups as undifferentiated, meanwhile ingroups are very diverse (similar to aggression and deindividuation). More easy to aggress when we deindividuate.
+
+Own race; can percieve differences in own race faces, we generally have most exposure to our own race.
+
+Similar to a learned skill, experience increases attention to subtle, specific, and detailed cues (rather than abstract categories). We can do the same with identifying outgroups. 
+
+The cultural mosaic model in Canada works to overcome prejudice and stereotypes. Exposure to multiple cultures develops experience and leads to these learning counter-sterotypic information. Over time, the inconsistent information that is more readily encoded individuating outgroups.
+
+Inconsistency is centrally processed and more presuasive. 
+
+-
+Illusory Correlation
+
+Two distinct events are coupled leading to development of stereotypes. 
+
+Study: Group B is minority vs Group A and negative behaviours are more rare than positive. Proprotions same in each group (eg. 3:1). Associating one rare occurrence with another. 
+
+-
+Memory biases
+
+Memory is a dynamic process of storage and retreival. We encode unique inconsistent memory better, so then why do steretypes exist? Under cognitive load, we retreive this information more slowly than stereotype consistent information. 
+
+-
+Cognitively maintaining prejudice
+
+Low prejudice: normally not prejudiced but failure of cognitive machinery leads to endorsing/maintaining stereotypes.
+
+High prejudice: facing counter-stereotypic information they tend to explain away the observations (eg. an exceptional or unique case, luck or chance, motivation or effort, situtaional pressure). 
+
+We infer cause and effect; cause is generally associated with human action. 
+
+Why are high prejudiced people defensive? They are unaccepting of counter-stereotype information because it threatens their worldview. (system justification) Social dominance orientation people, strong authoritative personalities. Accept less randomness, novel, inconsistent info. 
+
+-
+Linguistic Bias
+
+Stereotypes are subtly spread through our language and descriptions. People used generalized and abstract wording when observing sterotypic events of the outgroup. (Eg. Jamal is being aggressive). 
+
+-
+Bartholew et al study 1
+
+How does alcohol affect stereotypes and biased responses? Participants asked to complete a study on alcohol and person perception. Measured stereotype activitation; being primed with arace should increase accessibility of stereotype words. Mixed with "house" primes and related words.
+
+IV: alcohol dosage (high vs low vs none/placebo)
+
+IV: person prime: white or black
+
+DV: RT judging stereotypic traits (eg. lazy, pretentious) as "person-related"
+
+Found no effects for alcohol; didn't change whether stereotypes were activated. Primes were the main effect. Black prime, more black stereotypical trait categorization. White prime, more white stereotypic trait association. Quicker to react when congruent prime + trait.
+
+-
+Study 2
+
+Does alcohol change inhibition response?
+
+Similar design to study 1 (primed and reacted to stereotype traits) however the tack was further modified to have a go or stop signal. Have to stop self in responding based on signal. Effortful self control. 
+
+IV: alcohol dosage
+
+IV: person prime; white vs black
+
+IV: go or stop signal
+
+DV: RT judging stereotypic traits (eg. lazy, pretentious) as "person-related"
+
+Result: People who had alcohol were most likely to make inhibition errors in the stereotypic consistent condition. More likely to become stereotypical when under the influence of alcohol, harder to inhibit gut reactions. 
+
+-
+Summary: 
+
+The perceptual changes related to alcohol does not affect stereotype activation, but does affect inhibition (poor). Intoxicated individuals more prejudiced because of poor cognitive control.
+
+-
+Turner et al study 2
+
+How does intergroup contact influence prejudice?
+
+White/asian secondary school students rated their interaction with the outgroup. 
+
+Correlational design/self report.
+
+Extended contact improves outgroup interactions.
+
+Measured opportunity for contact, number of cross-group friendships, extended friendship.
+
+Outcomes: intergroup anxiety, self-disclosure, implicit and explicit attitudes.
+
+More asian people in immediate surroundings makes you have more friendships with asian people, less intergroup anxiety, more likely to disclose life characteristics with them. 
+
+-
+Study 4 (he said probably will not be tested)
+
+What effect does self-disclosure have on the in/outgroups?
+
+Participants (white undergrads) participated in this correlational study on integroup relations.
+
+Result: having more friends who are of outgroup caused you to disclose more information about self, increased empathy, trust, weighted importance of them in your life, and outgroup attitudes. 
+
+Summary: increasing exposure to other races is correlated to more positive interactions with outgroups. 
+
+Supports Canada's 'cultural mosaic model', higher exposure reduces prejudice. More time to connect and learn about outgroups (theory of mind).
