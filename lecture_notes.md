@@ -2214,3 +2214,285 @@ Result: having more friends who are of outgroup caused you to disclose more info
 Summary: increasing exposure to other races is correlated to more positive interactions with outgroups. 
 
 Supports Canada's 'cultural mosaic model', higher exposure reduces prejudice. More time to connect and learn about outgroups (theory of mind).
+
+## Nov 1 - Review session
+
+Elaboration likelihood model - people become persuaded through central and peripheral route. Peripheral route relies on cues that are not directly tied to message content.
+
+Chaiken: how and when do we process peripheral or central cues?
+
+IV: high vs low processing of the message (relevance)
+
+- high: told have to discuss argument later. have to know this later on
+- low: will be discussing something different later - skim it
+
+Iv: peripheral cue (likeable vs unlikeable message source, insulted vs preiased undergraduates)
+
+IV: central cue (message containted 2 vs 6 arguments)
+
+2^3 = 8 conditions
+
+DV: opinion on the topic/attidue change
+
+Result: 
+
+- If high relevance, pay attention to central cues. More arguments are more persuasive. More likely to be convinced by the strength of an argument. 
+- When low consequences all are peripherally processing the message. When peripherally processing, more convinced by a likeability cue than unlikeability cue (positive vs negative peripheral cues). Low educated people who don't care about politics have no knowledge about politics, are more swayed by likeability.  
+
+Summary: when issue is relevant - persuaded by central cues, when unimportant then use peripheral cues.
+
+-
+Patzer
+
+Does attractiveness increase credibility?
+
+Participants rated their attitudes towards a fictional pain relief medication that was endorsed by a person (picture) that varied in attractivness 
+
+IV: attractivness
+
+DV: measures of trustworthitness, perceived expertise, and liking
+
+Result: Attractive people were most highly related in all. 
+
+Summary: we judge trustworthiness and expertise based on attractivness. "beautiful is good" stereotype
+
+Eg. celebrity advertising
+
+-
+Edwards
+
+Do persuasive appeals need to match their attitude sources? Emotional vs rational
+
+Manipulated attitudes towards Chinese characters (contrived)
+
+- based attitudes on cognition or affect using informational passages and subliminal primes
+
+Looked at people's change in attitudes towards characters pre and post manipulation (ie. persuasion). Crossed with positive vs negative emotions. More relevant is emotion vs rational.
+
+IV: source of attitude
+
+- subliminally flashed a face first -> viewed character -> read about it -> viewed it
+- viewed -> read -> flashed -> viewed
+
+IV: given either an emotional appeal or cognitive appeal (opposite of what you were initially induced to feel)
+
+4 condition study. Rate after first part and then second part.
+
+DV: attitude change
+
+Result: when you match the modality/form the attitude was formed, then more likely to persuade. If attitude developed based on affect, more changed based on affective approach. 
+
+Summary: matching persuasive message with way the attitude was formulated maximizes persuasion. As well, both subliminal and supraliminal persuasion seem to change attitutdes. 
+
+-
+Karmarkar and Tormala
+
+Does conflicting source and certainty characteristics increase persuasion?
+
+More convinced by message from conflicting source.
+
+If perceived expert gives uncertain information, then confusing to you. 
+
+IV: source expertise (food critic vs network admin)
+
+IV: level of certainty (definite vs wishy washy)
+
+DV: rating of attitudes towards restaurant, cognitive elaboration of the review
+
+Result: 
+
+- non expert source: when high certainty then very persuasive. 
+- expert source: high certainty is less persuasion. Low certainty is higher persuasion than high certainty. 
+
+Summary: uncertain experts are most persuasive. Certain non experts are also persuasive. 
+
+-
+de Wit et al
+
+Mesages that are more vivid in detail are more persuasive and result in greater attitude change. (why personal accounts are more effective than written). 
+
+IV: message of increased HBV risk (hepatitis b)
+
+- personal account; narrative, 1st person
+- statistic evidence
+- mere assertion: single statement suggesting male male sexual relations increases risk
+- control: no statements
+
+DV: self perceived risk of HBV, intention to get vaccinated
+
+Result: Narrative evidence vs mere assertion only had statistically significant difference. However trend for narrative accounts being more convincing than the others.
+
+-
+Bickart and Schindler
+
+How does online informaiton affect consumer behaviour?
+
+IV: students researched one of 5 categories
+
+- bicycling, exercise equipment, nutritional supplements
+
+IV: assigned to look at corp sites vs forums
+
+DV: measured intention to purchase, thoughts on product
+
+Result: more interest in product when reading forums vs corporate web page
+
+Another measure of attitdue persuasion. Personal accounts -> more interest. 
+
+Further support that personalized messages vs mass media appeals more effective. 
+
+-
+Message framing:
+
+Can be written to emphasize losses or gains. People are more attentive to negatively framed info.
+
+
+Choose between 2 treatements for 600 people affected:
+
+- treatement A: predict to result in 200 saved lives
+- treatement b: predicted to save 33% of lives
+
+-
+Smith and Petty
+
+IV: negative or positive frame (recycling will lead to reduce landfill, or not recycling will increase landfill)
+
+IV: weak vs strong arguments: landfills are 25% vs 75% full. More central processing for more strong argument
+
+DV: agreement with message, thoughts listed related to recycling
+
+Result: negatively framed messages only convinced when strong argument (centrally processed). 
+
+Negative frame is read more carefully. 
+
+-
+Study 2
+
+Is this due to expectation? We usually expect positively framed messages, do we more carefully read negative frames?
+
+Conflicting information increases attention to the info. 
+
+Manipulated if people were expecting positive/negative frames.
+
+IV: negative or positive framed message (not taking vitamin K increases risk, taking vitamin K decreases risk)
+
+IV: weak or strong arguments (0.1% risk, 10% risk)
+
+When expecting positive frame and received negative frame: more carefully processed message, only convinced by strong argument.
+
+When expecting negative frame (eg. title = "risks of not taking vitamin k") and positive frame (eg. taking vitamin k decreases risk) then more attention.
+
+If expect negative and receive negative, then gloss over.
+
+If expect positive and receive positive, still slightly more affected by strong argument. 
+
+When frame expectation is violated, we attend to the message more.
+
+To convince someone with a weak positive message, frame as a positive message. Just as convinced. Given a weak positive message and expecting positive = convinced. 
+
+Carefully read message when expectation violated.
+
+-
+Audience characteristics
+
+People respond to messages in different ways due to personality characteristics. 
+
+-
+Hirsh et al 
+
+Do advertisements work better when tailored to personality
+
+IV: received a message based on big 5 personality trait (eg. extraversion = excitement, neuroticism = safety)
+
+DV: rating of the advertisement, liking of the product, interest in purchasing it.
+
+Result: When advertising frame matches personality, more effective, more convinced of message. 
+
+-
+Sherif
+
+autokinetic effect, agree with number someone else says. Informative norm
+
+-
+Whiten et al
+
+Monkeys adopt the social norms because they don't know what's going on. Look at their friends and copy. Transfer social norms.
+
+-
+Asch
+
+judging line length equality. 
+
+Sherif vs asch difference: don't know what's going on vs do, you perceive the others as wrong. Normative influence - going along with group for the sake of going along with it, have your own information and know what's going on, know which line is correct. Sherif - informational influence, don't know what's going on, can't actually tell. Go along with group because they seem to know what's going on.
+
+At 4 people continuously conform. 
+
+Outwards compliance vs private acceptance. 
+
+-
+Milgram
+
+-
+Proximal vs distal
+
+Proximal explanation: the direct effects of a behaviour, provides a superficial analysis of the purpose (the how). Basic/biological cellular level. How the function works. Eg. my frontal cortex inhibits a lot of my primitive actions
+
+Distal explanation: an evolutionary account of behaviour, explains the ultimate adaptive function. Bigger reason why something happens. Why the function is beneficial.
+Eg. why self control is evolutionary adaptive
+
+-
+Debono Study 1
+
+does self control affect conformity to social norms, specifucally injunctive norms?
+
+IV: depleted vs not (typing task)
+
+IV: anon or identified
+
+DV: cheating behaviour (# puzzles said solved)
+
+When depleted, more likely to cheat
+
+-
+Study 2
+
+IV: same typing task
+
+DV: number of times participant said thank you
+
+depletion -> less thank yous, politeness. 
+
+-
+
+Distal explanations: public goods game. However much is contributed is multiplied by X and redistributed. If antisocial, end up with more resources. If everyone helps then everyone benefits. 
+
+-
+Andreoni and Petrie
+
+How does idenfication influence conformity in a PGG?
+
+IV: level of identification
+
+DV: overall level of participation
+
+Result: more identifiable, more likely to contribute. 
+
+-
+Asch: when participant can answer privately, more likely to not conform
+
+-
+Darley
+
+IV: fear vs no fear (told they would receive a shock to inner ear)
+
+IV: group similarity
+
+DV: conformity and agreement
+
+Main result: high fear more likely to conform to group behaviour 
+
+-
+When we perform immoral behaviours (don't conform to group norm) you can give yourself moral licesnsing for why you can deviate from the norm. Come up with moral justifications, palliative comparisons (at least i'm not killing somebody). Minimize/ignore consequences. Dehumanization, attribution of blame on the victim.
+3 phases 
+
+Self serving bias. 
