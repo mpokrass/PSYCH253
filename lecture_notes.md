@@ -2496,3 +2496,158 @@ When we perform immoral behaviours (don't conform to group norm) you can give yo
 3 phases 
 
 Self serving bias. 
+
+## Nov 4
+
+Stereotype content model 
+
+When we develop group interactions, we cognitively partition people, based on 2 fundamental dimensions: warmth and competence. Emotionally connected to and capable.
+
+Asch - evidence for core qualities.
+
+Intelligent, skillful, industrious, _warm_, determined, practical, cautious
+
+vs
+
+Intelligent, skillful, industrious, _cold_, determined, practical, cautious
+
+Drastically different interpretations by changing only this one key personality trait (changing other qualities did not have as dramatic effects). 
+
+Maybe because the other traits are more narrow, industrious is a very specific trait. Fundamental perceptions associated with more broad, abstract terms. 
+
+Factor analysis on traits. Distilled into four qualities - intellectual (good vs bad) and social (good vs bad).
+
+-
+SCM; ambivalence
+
+People can have ambivalent attitudes towards different stereotypes. Can simultaneously hold a negative and positive view of somebody. We usually don't only hate the outgroup, can also attribute positive qualities to them (on these orthoganal dimensions)
+
+Warm and incompetent; disrespected but pitied. Eg. old people, people with down's syndrome, spinal cord injury patients. 
+
+Cold and competent; envied but lack desirable affiliation. Eg. asian people, extremely industrious and productive. Perceive them as colder, career-oriented women, jews, professors (?). 
+
+-
+Can also have univalent stereotypes. 
+
+Although prejudice in an extreme sense still does exist today; that is people carry purely negative evaluations (on both dimensions)
+
+Cold and incompetnet; contempt, disgust, and hate. 
+
+Distance yourself, they almost have no redeeming qualities. No desire to associate with them.
+
+Volountarily homelessness/social assistance due to laziness, drug addics (people with control and causality over their lives who make no effort). Extreme conservatives believe homosexuality is a choice, then very negative view towards people with AIDS (?)
+
+Usually our purely positive evaluations are reserved for the ingroup. Warm and competent; admiration and pride. Ingroup or default reference group (the majority). 
+
+-
+Warmth is primary to competence.
+
+Warm groups > competent groups from and adaptive perspective. More valuable to be part of a group than not.  Group will provide for you -> positive perceptions.
+
+Overall group warmth predicts valence (positive/negative) and competence predicts the magnitude (how positive/negative). Warmth is the underlying primary factor. 
+
+When asked about most important traits typically list warm traits (eg. honest, sincere, loyal) and more quickly and vividly remember warm vs competence words. 
+
+-
+Implicit biases
+
+Unconscious environmental cues affect our behaviour. 
+
+- subliminally flashing black faces increased hostile behaviour
+- our initial biases change our behaviour in an interview (self-fulfilling prophecies)
+
+Being aware of these biases is the first step towards combatting them.
+
+-
+Corell et al study 1
+
+Participants played a video game that required them to make the decisions to shoot vs not shoot (black or white people). There was a higher pay off for accuracy, motivated to control prejudice. Want to tell if they are holding guns.
+
+Strong real world implications; police officers must make the decision on a daily basis. Topical lately in the news. 
+
+Do our implicit biases affect us even when we are motivated?
+
+All white participants, performed a sophisitcated go-no-go task. 
+
+IV: black vs white person in the image
+
+IV: person had gun vs not (revolver or glock vs control [cell phone])
+
+DV: reaction time, accuracy
+
+Result: 
+
+- armed: took more time to shoot white people with guns than black people with guns (despite the motivation)
+- unarmed: quicker to press not shoot for white people than black
+
+-
+Study 3
+
+Does personal prejudice predict the shooter bias?
+
+Participants (mostly white) completed the same go-no-go task as well as scales of modern racism, prejudice, and personal and cultural stereotyping.
+
+IV: white vs black person in the image
+
+IV: gun vs control item
+
+DV: accuracy, reaction time
+
+Correlated shooter bias with self reported personality variables. Self reported prejudice is statistically uncorrelated with people's shooter bias. 
+
+Support of cultural norms (cultural stereotypes) are correlated. What do other people think/what does your culture think.
+
+Increased contact with the shooter group positively correlated with sooter bias. 
+
+-
+Study 4
+
+Replication of study 1 in an adult sample of mixed races. 
+
+IV: white vs black person in the image
+
+IV: gun vs control item
+
+DV: accuracy, reaction time
+
+Found exact same result, regardless of race. Implicit biases are ingrained, even if we are part of that group.
+
+Summary: 
+
+Implicit biases and cues change behaviour even in more applied settings, when motivated to control them
+
+These biases are present above and beyond personal prejudices.
+
+Other races also demonstrate this bias and suggest that it is a cultural phenomenon. 
+
+-
+Kawakami et al
+
+Brought to the lab with 2 "participants" already waiting (one black, one white). The black participant "forgets his cellphone" and leaves the room, as he leaves he bumps the white "participant" and once gone he responds with a racial slur.
+
+IV: imagine this scenario vs experience it (experiencer vs forecaster)
+
+IV: no slur vs moderate slur vs extreme slur
+
+- no comment
+- typical, I hate it when black people do that
+- clumsy n-word
+
+DV: negative emotions, likelihood of working with the white participant
+
+Result:
+
+- forecaster: no comment, avg negative emotion (around 5), people reported a lot of negative distress towards moderate and extreme recist comments. Said they wouldn't select the person when they were racist.
+- experiencer: nonsignificant differences between the slur conditions. Didn't report any more negative distress/emotion than if they hadn't said a slur. Would still select the experimenter (above 50%) to work with them.
+
+No black participants, though lots of other races.
+
+Wanted to rule out vividness as an explanation, so another study was a video recording. Results showed that they said they would have negative feelings towards this racist person. Still react differently.
+
+Believability: wanted to rule out that people thought it was contrived. Study 3 told them that it was a real interaction vs contrived. 
+
+Both studies showed the exact same results. 
+
+People mispredict their feelings even in the most extemely prejudice scenarios.
+
+Behaving this way perpetuates modern racism.
