@@ -2651,3 +2651,121 @@ Both studies showed the exact same results.
 People mispredict their feelings even in the most extemely prejudice scenarios.
 
 Behaving this way perpetuates modern racism.
+
+## Nov 7
+
+In the study where contact with black people was correlated with more bias against black people, this might be explained by these people paying attention to these cues when they usually wouldn't be.
+
+Social identities are multi-faceted. 
+
+We draw self esteem from groups (social identity theory) therefore we don't want to feel negatively toward our own ingroups.
+
+In situations that might confirm a stereotype there is increased pressure and stress to avoid spreading the stereotype, this is called stereotype threat. 
+
+Racial gap in academic achievement. Gender differences in math and physics. 
+
+Gender differences in computing. 
+
+Racial differenced in athletic ability, eg. NBA is mostly black. 
+
+Racial differences in math. 
+
+-
+Black students performed worse on a 'diagnostic test of intellect' than whites (vs when just worded as a challenging problem solving task). Induced the stereotype threat.
+
+Bringing attention the the stereotype impaired perforamnce.
+
+Other stereotypes; women writing their gender before vs after an advanced placement calculus test do 33% worse.
+
+White males being told they were compared to asians on a diagnostic math test perform worse.
+
+Becomes a self fulfilling prophecy. Threat reduces performance -> failure is internalized -> reduces future effort toward the task and abandonement of the goal
+
+People become less invested and identified with a domain following stereotype threat.
+
+Negative spiral.
+
+Stereotype threat reduces women's ability to resist eating a tasty food, increases aggression, risk-taking and cognitive control
+
+Reduced working memory capacity.
+
+Increased stress, anxiety, and arousal. 
+
+Stereotypes work as heuristics to reduce cognitive load. 
+
+How can we reduce the impact of stereotype threat?
+
+Self-affirmation brings to mind core goals and values that reduce focu on the threat and maintains self-esteem. Feel less threatened when exposed to stereotype threat. Identifiy other domains in your life that are successful. 
+
+Self affirmations reduce stress and cortisol release. Increase goal commitment and overcoming barriers. Less defensiveness following threat. Increases academic performance of black students. Increases self control following depletion. 
+
+eg:
+
+Select the personal value from the list that is MOST important to you
+
+In the box below explain why it's important to you
+
+-
+Spencer et al
+
+Group of student that got a B or higher in calculus, and did well at math SATs. Men and women
+
+Induced no stereotype threat. 
+
+IV: difficult vs easy math test  
+
+IV: women vs men
+
+DV: test performance
+
+Result: easy test - everyone did very well. On the harder test, women did considerably worse than men. 
+
+-
+Study 2
+
+Is this actually due to ability or stereotype threat?
+
+Hard math test
+
+IV: women vs men
+
+IV: test description (ie. stereotype threat)
+
+- participants told that that the test typically showed gender differences
+- or told the test typically had no differences
+
+DV: test perforamcne
+
+Result: framing test as stereotype threat predicted performance. No statistically significant difference in the non threatening condition.
+
+Women made to believe that a math test previously showed gender differences were likely to feel additional pressure in the form of stereotype threat. 
+
+-
+Martens et al study 1
+
+Does self-affirmation work to eliminate stereotype threat?
+
+Men and women completed either a set of "reasoning problems used for future research" or a "test of math and reasoning abilities" (stereotype threat vs not)
+
+Then complete a self affirmation task
+
+IV: stereotype threat vs not
+
+IV: affirmation vs no affirmation
+
+DV: mean number of correct answers
+
+Result: affirmations reduce the impact of stereotype threat. 
+
+-
+Study 2
+
+IV: threat vs no threat
+
+IV: affirmation vs none
+
+DV: performance on spatial rotating task
+
+result: affirmation only seemed to boost women, not men. 
+
+Boost in performance only affects people experiencing stereotype threat.
