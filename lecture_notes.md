@@ -2769,3 +2769,109 @@ DV: performance on spatial rotating task
 result: affirmation only seemed to boost women, not men. 
 
 Boost in performance only affects people experiencing stereotype threat.
+
+## Nov 9
+
+Men did worse when they were told that there were no gender differences on the test than when they were told there were gender differences. However not statistically significant.
+
+Self esteem is affected by stereotype threat, not self efficacy. Doesn't change your thinking that you can/can't do it, just makes you more anxious. 
+
+-
+Goals
+
+Some more concrete, some more abstract. 
+
+Goals are cognitive structures that can be represented in terms of movement and progress toward some abstract and desirable end state.
+
+Goals are important in achieving outcomes that are not in our immediate environment. (don't always have to be abststract as stated above)
+
+-
+Approach motivation
+
+Our tendency to move toward a particular state is called approach motivation. Rewards and appetitive stimuli are associated with approach moivation.
+
+Engaging, enjoyable, empowering, re-vitalizing. 
+
+-
+Avoidance Motivation
+
+We move away from undesirable states. Also goal oriented, trying to avoid a specific undesirable state. Goal = I don't want to fail my test. 
+
+Escaping punishment, security goals due to fear (not anxiety) and activated by the fight-flight-freeze system.
+
+Leads to focus on negative (ratehr than reward cues)
+
+Both types of motivation are present in all animals and guide behaviour at a basic level. 
+
+Can still be very powerful, some people are more predisposed to avoidance motivation. 
+
+-
+Goal-regulation
+
+But humans are not controlled by these instinctual motivations. Higher level thinking and self control allow us to override some of these basic tendencies.
+
+We exert self-control and use abstract thinking of distant rewards/punishments to adapt our behaviour. 
+
+Low order goals, eg. eating lunch, going to the gym.
+
+Then loftier, distant goals, become more abstract. Eg. get a good grade, get a good job.
+
+-
+Hierarchy of goals
+
+Goals are on a continuum, higher-order, superordinate goals encompass lower-level simple goals. 
+
+Higher order goals and actions are simple, abstract, and vague. Point off in the horizon. Summed up with a single word/line.
+
+Immediate goals and actions are complex, concrete, and descriptive. Eg. i want a good grade bs let's read 20 pages of this chapter. 
+
+-
+construal level theory
+
+Our cognitions abou the world vary along dimensions of concreteness and abstraction.
+
+The ability to think abstractly is tied to our use of language and is a uniquely human trait.
+
+Not just goals but other attitude objects as well; psychological distance increases construal level. 
+
+- hypotheticality (probability of events, as gets lower, less concrete thoughts)
+- spatial distance (hawaii vs ontario)
+- social distance (your significant other) (eg. calling someone professor vs mr)
+- temporal distance (tonight vs tomorrow)
+
+-
+Self control
+
+A conflict between immediate, small rewards vs delayed, larger rewards
+
+Suggests that self control requires abstract goals. 
+
+-
+Fujita Study 2
+
+Told the longer you hold on to grip, better measure of personality. Delayed reward, there is a purpose.
+
+IV: construal level (high vs low)
+
+DV: handgrip performance
+
+Make people more concrete by having them ask how, more abstract by asking why.
+
+Result: High construal level had higher handgrip performance. Thinking abstractly (why) made them have more self control. 
+
+-
+Study 4
+
+Does abstraction also affect self-control decisions?
+
+Participants read paragrpahs about self control conflicts written in a high vs low construal format and measured feelings of guilt.
+
+IV: high vs low construal passages: eating a piece of cake, being lazy and leaving an air conditioner on, copying someone's asnwer on an exam, going out instead of studying, throwing out gum on the street
+
+DV: measured negative emotions (how bad would you feel if you ate the cake?)
+
+Thought: If you have self control and break diet, you'd be upset. Wouldn't be upset if no self control.
+
+Result: More negative emotions in the high construal passages
+
+Summary: abstract mindsets facilitate self-control.
