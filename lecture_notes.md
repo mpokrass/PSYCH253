@@ -2875,3 +2875,147 @@ Thought: If you have self control and break diet, you'd be upset. Wouldn't be up
 Result: More negative emotions in the high construal passages
 
 Summary: abstract mindsets facilitate self-control.
+
+## Nov 11
+
+Mischkowski et al
+
+Will self distancing operate like abstract construal? Will it increase self-control of aggression?
+
+Participants came for a study on music and its effects on problem solving and creativity, provoked by interrupting, then completed a self-distancing manipulation followed by measures of implicit and self-reported aggression.
+
+IV: control vs self immersion (imagine you are watching the task happening again) vs self distance (observe as a fly on the wall)
+
+DV: implicit aggression (word completion) and feelings of anger(Eg. M_D = mad or mud)
+
+Result: more self reported anger in self immersion condition.
+
+Also more angry world completions than self-distance condition. In self distance, see it in abstract terms, less emotionally driven. 
+
+-
+Study 2
+
+Same design as study 1. Anagrams and frustrating situations. 
+
+In a "separate study" had to give noise blasts to their partner
+
+IV: self distancing vs self immersion vs control
+
+DV: intensity of noise blast
+
+Result: More noise blasts in self immersion condition. 
+
+Summary: may be good to increase self distance during psychological arguments/distress. Reduces anger. 
+
+-
+Fear or anxiety?
+
+Fear = actual/physical stimulus, some kind of impending danger
+
+Anxiety = abstract idea of something you might eventually fear.
+
+Eg. see a spider exhibit in glass -> anxiety vs see a giant spider in your basement -> fear
+
+Anxiety leads to causiousness, eg. mouse smelling but not seeing a cat while foraging. Won't run away but will act more vigilantly. 
+
+-
+Basic motivational systems
+
+Driven by 3 basic motivational systems: BIS, BAS, FFS (fight-flight-freeze system)
+
+BIS is between BAS and FFS. 
+
+Both BAS and FFS give input to BIS. Generates anxiety or not. Secondary responses of increasing attention/arousal. 
+
+-
+BAS
+
+Approach motivation
+
+Controlled by the BAS: high bas individuals are extraverted, sensation seeking, and seek hedonic pleasure. Uninhibited, strive for rewards
+
+Nucleus acumbens and dopamine activity are related to motivation toward reward stimuli.
+
+High BAS activity translates to persistence towards goals. 
+
+However goal conflict can reduce BAS activity. 
+
+-
+Fear: FFFS
+
+Avoidance motivation: move away from undesirable stimulus
+
+FFFS is responsible for escape behaviours and responds to negative env cues that signal danger.
+
+Affected by anti panic drugs but not anti anxiety. Evidence for the fact that they are fundamentally different processes. 
+
+-
+Anxiety: BIS
+
+Monitors activity between the BAS and FFFS, activation of both systems (approach avoidance conflict) generates anxiety, behavioural inhibition and vigilance. 
+
+Goal conflict/threat; BAS will lead tp pursuit of goals however encountering a negative cue = violated expectations. BIS becomes active to protect us from possible negative outcomes (biased attention to negative cues)
+
+Not just avoidance cues, there must be goal conflict to experience anxiety (must be BAS + FFFS, not just FFFS = fear). Combination of approach and avoidance; it is only a potential threat, otherwise you just activate FFFS. 
+
+-
+Anxiety and depression
+
+Overtime constant anxiety leads to depression (complete lack of BAS-activated motivation)
+
+Occurs because the motivational drive to approach goals is blocked by goal threat/conflict and if all goals are conflicted in this way, it results in depression (ie. unavoidable goal conflicts). 
+
+-
+
+Signals of punishment, signals of non-reward, novel stimuli, innate fear stimuli lead to activation of BIS. 
+
+This conflict leads to behavioural inhibition, increased arousal, increased attention.
+
+Only when coupled with BAS. 
+
+-
+BIS-BAS relationship
+
+According to the joint subsystems hypothesis, the BIS and BAS systems are inversely related.
+
+Increased BIS activity and anxiety is experienced by those with low BAS, and higher BAS activity reduces the sensitivity to otherwise BIS activating cues.
+
+High BIS = low BAS
+
+Encountering goal conflict = BIS, then reduced BAS which can be overcome through activation BAS. 
+
+-
+McGregor et al Study 2
+
+Do we overcome BIS-activated anxiety using the BAS?
+
+Given an anxious, uncertainty prime, easured peoples' approach motvation using an IAT; BIS is a highly aversive state, we latch on to any other available source of BAS (that are unconflicted)
+
+IV: academic threat vs no threat
+
+LISRAEL passagel complicated stats paragraph, uncomprehensible, had to read and summarize. 
+
+vs
+
+Easy stats passage
+
+DV: approach IAT
+
+Result: given BIS related threat, started to link concept of self with approach motivation more. Facing uncertainty threat leads to becoming more approach motivated. 
+
+-
+Study 3
+
+Does this happen for different threats and what are we approaching?
+
+Gave them a relational uncertainty threat (a relationship going poorly) and then measured their approach motivation as demonstrated by commitment to their idealistic goals
+
+IV: relationship threat vs control (friend condition)
+
+- bad relationship for self vs friend
+ 
+DV: personally important projects. Listed goals, rated how approach motivated they were for them.
+ 
+Result: More approach motivation (for personal projects) in relationship uncertainty condition (for self). 
+
+We engage in reactive approach motivation (RAM) when facing goal conflict (BIS activation). 
