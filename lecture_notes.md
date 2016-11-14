@@ -3019,3 +3019,108 @@ DV: personally important projects. Listed goals, rated how approach motivated th
 Result: More approach motivation (for personal projects) in relationship uncertainty condition (for self). 
 
 We engage in reactive approach motivation (RAM) when facing goal conflict (BIS activation). 
+
+## Nov 14
+
+Brain
+
+Over 100 billion neurons (and 10-50x more glial cells - support cells) in a rich network that fires synchronously to produce thought, action, and emotion. Conducts electrical signals, through neurons, with the support of glial cells (secondary cells that aren't conductive, just there for support reasons).
+
+Unique properties of neural tissue: only type of tissue that can conduct electrical signals. Sent along the axon of the cell to signal the next cell down the line. 
+
+Post synaptic potentials: occur at junction of two cells. Synapse - gap between neurons. 
+
+Neural tissue does not undergo mitosis (in most areas) like other cells and remains in G_0 phase. Can't regenerate nerual tissue in some areas, so some brain damage is permanent (except for hippocampus). G-naught phase. 
+
+3 distinct precesses: dendrites (mechanical stimulators), cell body, and axon. Brain is a bunch of interconnected string-like processes. 
+
+Dendrites are tiny/branch like. Pick up signals from external environment and propogate to cell body or trigger action potential in cell body. Motor neurons are unipolar. 
+
+Glial cells can't conduct. Vastly outnumber neurons. Don't carry/generate action potentials. 
+
+3 types: 
+
+- microglia: takes away waste/damage, cleans up after it. Perform maintenance of neurons. 
+- schwann: create mylenated tissue around axons. Mylen insulates axon (long string like) to increase speed. Different types of mylen. 
+- Astrocytes provide structural support and encapsulate the synaptic cleft. End of one neuron contacts another one. In order to prevent leakage of neurotransmitters, astrocytes are there. 
+
+CNS (brain + spinal cord), PNS (out to appendages).
+
+-
+Outer cortices: frontal, parietal, occipital, and tempral lobes. Most human aspects of the brain.
+
+Sulcus: divots/valleys in the cortex
+
+Gyrus: outward bump of neural tissue.
+
+Central culcus: seperates parietal and frontal loves. Pre and post central gyrus on either side.
+
+Lateral sulcus (sylvian fissure): seperates frontal from temporal love.
+
+Parieto-occipital sulcus.
+
+Longitudinal fissure: separates two hemispheres. 
+
+Measure macro level with fMRI and EEG vs micro levels (cytoarchitecture)
+
+Use tools and knowledge to investigate social phenomenenon. 
+
+Interdicsiplinary collaboration (eg. physics). 
+
+Temporal lobe - absraction, empathy. 
+
+EEG measures brain waves. 
+
+fMRI identifies what areas are getting more blood flow at a certain time.
+
+Positron emission tomography (PET) - inject radioactive ions in body, look at where they end up.
+
+Each imaging technique has pros/cons.
+
+Sometimes low ecological validity, eg. fMRI is unrealistic environment. 
+
+Spatial vs temporal resolution: location in space vs time. Better resolution in space or time for each imaging technique. Better spatial resolution - fMRI
+
+EEG has better temporal resolution. 
+
+-
+Electrical signaling
+
+Action potentials (AP): neuron fires if stimulus reaches threshold. Depolarization then action potential then repolarization, then refractory period. 
+
+AP are fast, unlocalized, and not strong enough to pick up outside of the CNS. 
+
+Basic, electrochemical unit of the nervous systeml we are a collection of electrochecmical impulses. 
+
+EEG signals are primarily composed of post synaptic potentials. Occurs at the junction of two nerve cells (terminal bouton, synaptic cleft, and post-synaptic neuron). 
+
+Neurotransmitter release opens protein channesl and changes voltage in the post-synaptic neuron. This change is measured by EEG. Imagine waterfall, measure potential energy at top and bottom. Need two points for EEG to measure potential electrical energy between the two points.
+
+Electrical signals can permeate the scalp. EEG measures voltage between two points.
+
+Can be poor spatial resolution for EEG, hard to figure out exactly where it's coming from.
+
+-
+Left frontal assymetry
+
+lots of spikes in energy all the time. Reduce the spikes to sinusoidal waves. Measure how prevalent/strong the wave is. This is what gives the frequency analysis of the brain. 
+
+LFA: difference between the specific frequence of alpha (5hz, goes up and down 5 times a second). 
+
+LFA linked to approach motivation. 
+
+-
+Harmon-Jones and Allen
+
+Does approach motivation always have a positive valence?
+
+Collected self-report measures of trait anger and aggression from children 11-17 years old (7 of which had diagnosed impulse control problems) measured EEG as well as self-reported affect (purely correlational design)
+
+DV: trait anger and aggression
+
+DV: LFA
+
+DV: ositive and negative affect
+
+Result: correlation between anger and resting LFA. More approach motivation for angry people. Alpha signal was positively correlated with self reported measures of anger. 
+
