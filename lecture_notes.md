@@ -3124,3 +3124,102 @@ DV: ositive and negative affect
 
 Result: correlation between anger and resting LFA. More approach motivation for angry people. Alpha signal was positively correlated with self reported measures of anger. 
 
+## Nov 16
+
+Same brain stuff as above.
+
+Neurons and glia (supportive cells). Glia don't conduct electricity, just there for support. 
+
+Oligodendrocytes create myelin sheaths.
+
+Microglia - garbage men.
+
+Astrocytes - support.
+
+Cerebrum/telencephalon: outermost layer of the brain, cortex, 4 main divisions:
+
+- frontal lobe: cognition, control
+- pareital: sensory info, spatial sense
+- temporal: language comprehension, abstract thinking, memory
+- occipital: visual perception
+
+All of these have this:
+
+- sulcus: a divot or valley within the cortex
+- gyrus: an outward protuding fold of cortex 
+
+-
+Brain Imaging
+
+EEG measures electrical activity in the brain
+
+fMRI measures blood flow to different areas.
+
+Each technique has strengths and weaknesses.
+
+fMRI see differences in what lights up based on stimulus.
+
+EEG is very accurate/precise in terms of time (retrieces info within milliseconds) but no information about what loe of brain is being activated. 
+
+-
+Electrical signaling: EEG
+
+Action potential: Dendrites change polarity inside of neuron. Causes spike in voltage which is an action potential. Sends a signal down the axon. An axon is a process that comes out of the neuron, basically the arm of the neuron, connects to another neuron. 
+
+EEG signals are primarily composed of post-synaptic potentials (PSPs) and not action potentials (APs)
+
+Both are changes in electrical activity. APs are fast and difficult measure from outside the brain. 3ms. Hard to measure them.
+
+PSPs are slower (take a few seconds) and are made up of multiple, converging APs. 
+
+PSPs occur at the junction of nerve cells, while APs are along the axons. 
+
+In EEG, we are measuring voltage (potential energy) between two points. 
+
+We don't know where the voltage is coming from (due to brain folds) resulting in poor spatial resolution. 
+
+Two types of eEG measurements; frequency analyses and event-related potentials (ERPs).
+
+-
+Left frontal analysis
+
+Differences in the brian activity (in the alpha wave) between the right and left hemispheres. Compare how much alpha wave in each of two hemispheres. 
+
+A more longitudinal look in at the brain; records and averages activity over several minutes.
+
+Linked to approach motivation, reduced depression and anger.
+
+-
+Event related potentials
+
+Brain signals that are a response to a specific stimulus. 
+
+Very immediate, cross-sectional look at the brain (activity that can be measured within milliseconds). 
+
+Measures very basic perceptual processes (without need for conscious awareness). Eg. subliminal photos
+
+Compare small period in time. 
+
+-
+Inzlicht and Gutsell
+
+What does self-control depletion look like in the brain?
+
+IV: depletion vs no depletion
+
+- watched an emotional video (of animals being hunted and poached) and told to supress your emotions
+- or told no instructions
+
+DV: error related negativity (ERN) as measured by the Stroop task
+
+- brain signal related to making mistakes
+
+Error related negativity curve. Dotted line = correct response. ERN (solid line) is different than correct response. Statistically significant difference. People who were told to watch video and supress emotions, their ERN curve started to resemble the correct responses. Less negatively affected by errors. Resemble instances where you make a correct reponse.
+
+Inability to perceive when you make a mistake led to worse performance on the stroop task. 
+
+When you deplete yourself, through emotional regulation or other means, results in decreased in ERN which predicted worse performance at the Stroop task.
+
+Suggests that exerting self-control reduces our ability to monitor and acknowledge mistakes. 
+
+May be why we lose self control the more we exert it.
