@@ -3223,3 +3223,209 @@ When you deplete yourself, through emotional regulation or other means, results 
 Suggests that exerting self-control reduces our ability to monitor and acknowledge mistakes. 
 
 May be why we lose self control the more we exert it.
+
+## Nov 18 (Dora's notes)
+
+ATTRACTION and INTIMACY
+
+What is Love? 
+
+- A strong type of liking
+- Can also be platonic (no romance at all, friendship/friendzoned lol)
+- Romantic vs. sexual desire
+- Companionate love vs. passionate love
+- Love vs. lust
+- Basic instinctual attraction, short-lived “honeymoon” phase
+- Honeymoon phase eventually fades off because we eventually become habituated to it
+- Develop strong, rewarding feelings at first (different reward centers of brain are going off), hopefully over time changes to “true love”
+- Companionship and mutually exclusive relationships, longer-term, deep love important for child-rearing
+- No definition of TRUE LOVE (two facets of love that you need to think about)
+- Different neurochemical signatures that are associated with different kinds of love (ie hormones that come into play with lust)
+
+Who do we find attractive?
+
+- Is there a universal definition for what we find attractive?
+- People have different preferences, there isn’t one unitary attractive thing
+
+Cultural Differences in Attraction
+
+- Malleable thing, depends on the environment that you’re in
+- Some people find control attractive, while others find submission attractive
+- Despite slight variations in what is considered attractive, there is a general consensus for females: waist-to-hip ratio (indicative of fertility), sexual maturity, breast size, indications that female has gone through puberty and is ready to bear children
+- For males, attractiveness is more variable among cultures with fewer universal traits of attractiveness: might be because males don’t bear children (don’t need to look for traits that indicate fertility), females look for other traits like resources (look for partner who will stick around and provide)
+
+Physical Attractiveness
+
+- Men place a greater value on physical attractiveness than women in romantic relationships
+- Need to exhibit good genes, reproductive qualities
+- Greater activation of amygdala and hypothalamus in men when shown sexually arousing stimuli
+- Suggests that men are more drawn to physically stimulating pictures: want to procreate and pass on their genes at the end of the day
+- Attractive people have more credibility to persuade people
+- “Beautiful is good” stereotype
+- Both sexes have instincts toward physical attraction
+Tinder: judge people automatically based on their looks
+Catfish: create internet profile with realistic traits, but fabricate this fake reality, pretend to be someone who you’re not
+- As we get older, our opinions might change about superficiality (might be due to hormones change, become more defined in your own personality and don’t have to cater to social norms and can look for compatible personalities)
+- Once you exert more cognitive control, you can display less tendency to choose based on hormones
+- Positive attitude can also lead to mate attraction as well
+- High arousal situations can lead to increased attraction to potential romantic partners
+- Keller: maintaining 2 minutes of eye contact lead to increased feelings of passionate love and positive evaluation, can tell whether or not an individual is being genuine with their emotions by looking at their eyes (ie skin around eyes wrinkle with a genuine smile)
+
+Sex
+
+- Men have greater levels of sexual desire than women
+- Physical attractiveness is a cue of mating viability rather than companionship
+- Facial attractiveness (symmetry) relates to healthy genes and immune function
+- Physically strong males suggest social dominance and greater access to resources
+
+Familiarity and Liking
+
+- Familiar people seem nicer and inevitably more attractive 
+- Repeated exposure to stimuli/person increases tendency to approach vs avoid 
+- We like things that are familiar both from this BIS-BAS motivational perspective, but also from a cognitive resource perspective
+
+Zajonc
+
+- Can photos of other males be liked more by mere exposure?
+- Participants were asked to remember faces, and were asked to rate attractiveness at the end of the study
+- Familiarity reduces feelings of anxiety
+- The more exposure they got of pictures of certain men, the more attractive they’d rate them
+- Supports implicit perception: repeated exposure engrains signals in brain and increase positive ratings
+- Media: might believe that someone’s attractive because people keep repeating that they are 
+- “No such thing as the friendzone! You just need to pull the trigger guys…” – Prof Tran
+
+Lippa
+
+- How do sexual drive and physical attraction relate to one another?
+- Correlational Study: asked participants to self-report sexual drive as well as attraction to the opposite and same sex
+- Heterosexual men have more of a sexual drive than women
+- Women have more of a variable ratings of sexual drive
+- Might be based on social norms (men are pushed to have more sex to appear more masculine while women are shamed for being promiscuous)
+- Higher sexual drive is related to sexually oriented attraction in males wereas female sexual drive is related to increased attraction to both sexes
+- Males show greater drive than females (both heterosexual and homosexual)
+
+## Nov 21
+
+Romantic love develops from feelings of intimacy, whereas sexual desire wass about physical attraction
+
+7 different facets of intimacy (Register and Henley):
+
+- Non verbal communication; touch or kiss, eye contact, unrelated to langauge
+- Presence; feeling that a person is with you in spirit (feelings of support)
+- Time; an experience that spans multiple domains (past/present/future)
+- Boundary; merging of thoughts, feelings, removing defenses
+- Body; awareness of own body, butterflies
+- Destiny and surprise; spontaneous yet natural, feelings of fate
+- Transformation; personal revelations
+
+-
+Evolutionary pressures
+
+Neither allomothering (parent other than mother raise child, contribute) nor monogamous pair-bonding exists in the great apes.
+
+Romantic bonding seems to be a uniquely human adaption used to increase commitment. Parenting increases reproductive success; mating in apes is usually 6-8 years apart (fewer offspring) vs 3-4 years in primitive nomadic human cultures.
+
+Cross cultural development of romantic love emphasizes its universality over physical attractiveness. Generally value romantic love over physical attraction. 
+
+-
+Oxytocin
+
+Neuropeptide and hormone that increases interpersonal connection. Higher trusting behaviour and generosty; cooperation, affiliation and bonding, attraction, attachment.
+
+For women, oxytocin is involved in both love and desire. Highly released during pregnancy, develops child bonding. 
+
+Other benefits: reduced stressed, increased feelings of empathy, sharing of other mental states (theory of midn)
+
+-
+Attachment theory
+
+3 types of infant-mother attachment (Ainsworth):
+
+- secure attachment: rooted in turst and marked by intimacy. Associated with later high self esteem
+- avoidance: attachments marked by discomfort over, or resistance to, being close to others
+- anxious/ambivalent attachment: marked by anxiety or ambicalence (also called preoccupied or insecure)
+
+Infant mother attachment = first experience of human bonding. Critical stages of development, persist through adult life. 
+
+-
+Monkeys and attachment (Harlow)
+
+Rhesus monkeys, removed from mother and placed in clean sterile environment (to avoid infections)
+
+Developed attachment to soft gauze padding in the cages (kind of like a blanket for small children). Interestingly, there were higher mortality rates when no soft items were available. 
+
+Able to survivve in diverse, dangerous environmentss from birth
+
+-
+Surrogate mother (Harlow): soft warm and tender, a mother with inifinite patience, available all the time. Basically a fluffy large doll in cage with monkey.
+
+Created a cloth monkey that would nourish the baby through a bottle. 
+
+Contrased to a wire mother which also provided milk. 
+
+Developed a cage with both mothers and the wire mother provided milk, while the other one provided mere presence. Baby monkey would cling on to cloth monkey and feed from wire monkey.
+
+-
+Harlow
+
+Open field test, monkey in cage, either cloth or no mother. Then put a foreign object into the cage. 
+
+Result: when there was a cloth mother, facilitated exploratory behaviour in monkey. Relieved enough anxiety of the monkey. Would periodically run back to cloth mother.
+
+Result: in absence of cloth mother, caused monkey to receive into corner of cage, orcking, and frantically clutching their bodies. Induced a lot of fear and anxiety. 
+
+-
+Adult attachment theory (Hazan and shaver)
+
+Infant attachment translates to romantic relationships in adulthood.
+
+Berscheid; show strong desire for physical proximity and contact during early phases of relationships, but support and care are more important later on. 
+
+Over time, relationships are still maintained despite relatively more space. More independence. 
+
+Pair bonding mechanisms same (Bowlby):
+
+- secure; seek trust, friendship, and positive emotions. Don't need constant reassurance
+- avoidant: fear of cloeseness and lack of trust. Fear when emotionally exposed
+- Anxious ambivalent: preoccupation, painful and exciting desire to merge with one another. 
+
+-
+Lydon et al
+
+How do our perceptions change when in a loving relationship?
+
+Tested a "computer romantic match algorithm" gave a photo and biography, personality items and relationship questionaire. In a second session received a "participant" package; older sample (graduate students 20-37 years old)
+
+IV: threat level: (threat to relationship)
+
+- moderate: computer matched
+- high: person specifically chose your package from 5 others
+
+Also made sure the person's picture was definitely attractive
+
+IV: self reported commitment to relationship (1 to 9) (low vs moderate vs high)
+
+DV: ratings of attractiveness (1 to 9; controlling for single peoples' scores)
+
+Result (controlled with single people):
+
+- low commitment relationships: rated the package as attractive. In line with single people's scores.
+- moderate commitment relationships: Devalued attractive people in moderate threat condition. In a mid range relationship, aren't super committed. Value same as single people in high relationship threat. Basically not that committed to your partner. 
+- high commitment: devalue attractiveness of high treat person. More likely to derogate a high threat to relationship. In moderate threat condition (computer match) didn;t impact, same ratings as single people. Still objective, not breaking any principles of relationship. 
+
+Summary: people's perceptions of attractiveness changes when in a committed relationship.
+
+Moderate commitment reduces attraction to moderate threats (eg. ignore random, attractive strangers). However facing a  high threat, attractiveness ratings are the same (only moderate commitment, so perhaps there is a seed of doubt).
+
+High commitment reduces attraction to high threats. Moderate threats are still rated as attriactive, because the relationship is secure and stable.
+
+-
+Light et al
+
+How do hugs help us?
+
+Women and their partners recruited for study on "health and relationships", measured baseline levels of oxytocin, frequency of hugs and blood pressure.
+
+Result: positive relationship between oxytocin levels and hug frequency. Negative relationship between baseline BP and hug frequency. People with high level of oxytocin have reduced systolic BP. 
+
+More frequent hugs associated with increased baseline oxytocin. That predicts lower BP over stressful events. (giving of a speech)
