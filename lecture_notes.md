@@ -3429,3 +3429,95 @@ Women and their partners recruited for study on "health and relationships", meas
 Result: positive relationship between oxytocin levels and hug frequency. Negative relationship between baseline BP and hug frequency. People with high level of oxytocin have reduced systolic BP. 
 
 More frequent hugs associated with increased baseline oxytocin. That predicts lower BP over stressful events. (giving of a speech)
+
+## Nov 23
+
+Ostracism 
+
+School shootings precipitated research. Correlation between shooting and ostracism. 
+
+Kip Williams playing with his dog in a park. Some people playing frisbee, and it lands next to him, he sends it back. Then they toss it back to him, include him. Non verbal. After a few times they stop passing it to him and play it together. Wondered why he felt so bad - normative?
+
+-
+First studies (Williams 1998(
+
+Participants sit in a waiting area for study to begin. Ball gets passed around, short period of inclusion is followed by exclusion (condfederates). 
+
+IV: 2 condition
+
+- 3-4 passes then exclude
+- don't exclude, pass to participant equally
+
+DV: Then do the "experiment". Do a bunch of mood scales: belonging, control, self-esteem, meaninfgul existence
+
+Results: Excluded people felt upset and distressed
+
+Being excluded by anonymous strangers is distressing.
+
+What about anonymous strangers over the internet? Developed paradigm called cyberball. Visualize what's happenening.
+
+-
+Cyberball: 
+
+- connecting to other players
+- 3 other players
+- in rejection condition, other 3 players just pass between themselves
+- chatbox where you can type things
+
+First study: confederates in the network. Included in first 5 throws and then exlcuded for next 25. Findings: excluded people felt upset and distressed.
+
+-
+What if inclusion is undesirable?
+
+- The other participants support a major rival political party
+- other participants are KKK members
+- being included costs money (for every throw you get 0.50 cents deducted)
+- no deception - told that you are playing against a computer
+
+People felt distressed in all conditions.
+
+Online vs offline similar effect size.
+
+-
+Moderation - a variable that makes the original effect stronger/weaker
+
+- Extroverts vs introverts
+- gender
+- self esteem
+- social anxiety
+- loneliness
+
+Reflexive stage: the ouch reaction.
+
+- dACC (dorsal Anterior Cingulate Cortex)
+- everyone experienes the ouch reaction and gets upset at first
+- alarm system
+
+Strong situation, does not seem to be moderated by personality variables. With a few exceptions: avoidant attachment. 
+
+-
+Reflective stage
+
+Fight (aggression), flight (sustained distress), freeze (emotional numbing), tend-and-befriend (trying harder to fit in)
+
+Acceptance stage
+
+- chronic ostracism
+  - withdrawal (depression)
+  - violence, terrorism
+
+-
+Why does exclusion hurt?
+
+Evolutionary model: belonging to a group increases chances of survival. Can be the difference between life and death.
+
+-
+Social pain theory
+
+Rejection is experiences as painful because the physical pain system as at least partially active during psychologicla pain.
+
+Evidence:
+
+- linguistic: i am hurt, broken hearted, wounded
+- neurochemical: acetaminophen studies - pain killers also make people less reactive to ostracism
+- neural: fMRI studies. Same area activated during rejection as physical pain  
