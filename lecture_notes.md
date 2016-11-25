@@ -3521,3 +3521,139 @@ Evidence:
 - linguistic: i am hurt, broken hearted, wounded
 - neurochemical: acetaminophen studies - pain killers also make people less reactive to ostracism
 - neural: fMRI studies. Same area activated during rejection as physical pain  
+
+## Nov 25
+
+Emotions have different functions/uses.
+
+What is an emotion?
+
+"Everyone knows what an emotion is, until asked to give a definition, then no one knows."
+
+Core affect:
+
+- basic, neurophysiological state called a feeling
+- not directed at anything
+- eg. general feeling of badness
+
+Emotion:
+
+- interrelated set of reactions towards an object
+- "i feel sad for my hamster"
+- affect, behaviour, attention (to the object), appraisal (how we judge an object), experience, neurophysiology (serotonin levels are lower)
+
+Mood:
+
+- global feeling over a long period of time
+- eg. woke up on the wrong side of the bed, feel bad all day
+- no target
+
+-
+2 theories of emotion
+
+basic emotions theory:
+
+- emotions are defined by distinct set of characteristics
+- there are basic kinds of emotions
+
+conceptual act model:
+
+- emotions are defined by how we think of them
+- emotions are made up of many processes, including how we think of them
+
+-
+Basic emotions theory
+
+emotions have unique sets of:
+
+- causes
+- physiologocial reactions
+- expressions
+
+Ekman and Friesen took thousands of pictures of people posing with 6 expressions (eg. anger, sadness, disgust)
+
+Had people identify what emotion is being expressed
+
+PArticipants across the world had 80-90% accuracy. Corrobarated that everyone has same kind of conception of emotions.
+
+Also studied people with no exposure to western influence (Tribe in new guinea). Had them pose facial expressions based on prompts. Still mapped on to western facial expressions. Evidence that emotions are universal. 
+
+(anger, disgust, fear, happiness, sadness, surprise)
+
+Emotions are not easily differentiated by physiological activity (they differentiate broad categories like positive and negative affect)
+
+Facial expressions do not always match up to subjective experience (eg. smiles are not always positive)
+
+-
+Conceptual act models
+
+Emotions are made up of many components
+
+Conceptual knowledge provides the emeotional category.
+
+Argues that there is no ingrained "sadness" reaction; comes down to how we perceive it.
+
+Categories are based on what people know about emotions (dependent on a situation)
+
+Shaped by language and culture.
+
+Causes, expressions, and physiological reactions are still real, but they alone do not dictate what a particular emotional experience is.
+
+-
+How do we control our emotions?
+
+Some people push the emotions down, but emotions are hard to control. Metaphor: controlling emotion is like being a rider on an elephant (eg. can nudge it in a particular direction, but there's no way to stop the elephant). 
+
+Time does not heal all wounds. We habituate to positive but not all negative events (eg. divorce, death of a loved one). 
+
+-
+Emotion regulation
+
+Increasing, decreasing, or maintaining emotions (positive or negative). Eg. losing a competition, bluffing in poker, business settings, or being excited when your friends have good news.
+
+-
+Modal model of emotions (steps_
+
+- situation (external event)
+- attention (is this relevant to my goals?)
+- appraisal (valence, familiarity, cause)
+- response
+
+Eg. bear while camping. Yes bear is relevant to goal of staying alive. Appraisal = this is a bad situation. Reaction = fight or flight. 
+
+Response can -> situation. Once we've responded we're in a new situation. Can by cyclical
+
+-
+Two emotion regulation strategies
+
+Expressive supression: holding back emotional expression. The last stage of an unfolding emotion. Addresses the response
+
+Cognitive reappraisal: change the meaning of the situation. Decide the situation isn't important. Addresses appraisal
+
+-
+Effects of reappraisal and supression
+
+Gross (1998)
+
+Participants were watching a disgusting film clip (amputation) and were instructed to either 
+
+- watch
+- reappraise
+- supress
+
+Reappraisal and suppression led to less expressed emotions
+
+Reappraisal decresed disgust experience (but not supression).
+
+Supression increased sympathetic activation. More physiological response.
+
+-
+Implications of emotion regulation
+
+Supression in the transition to college led to less social support, closeness to others, and social satisfaction
+
+Supression related to depression
+
+Cognitive reappraisal lessens negative emotion in conflicts and leads to more support for peaceful policies.
+
+Emotions are interralted sets of reactions to an object (different from core affect and mood).
