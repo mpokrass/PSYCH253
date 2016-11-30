@@ -3657,3 +3657,74 @@ Supression related to depression
 Cognitive reappraisal lessens negative emotion in conflicts and leads to more support for peaceful policies.
 
 Emotions are interralted sets of reactions to an object (different from core affect and mood).
+
+## Nov 30
+
+Egocentrism
+
+We ony have one perspective of the world; have to try to infer people's perspective on things through our senses, their emotions. 
+
+We try to understand each other becuase it helps us co-operate towards social learning and social goals. 
+
+Epley et al
+
+When we try to imagine others' thoughts, feelings, reactions, we use our perspective as an anchor and use cognitive effor to adjust. Demonstrated that when we have info it biases our judgements of others' thinking. Addint cognitive load increased the bias. (eg. hearing notes of sarcasm when not actually present). Eg. its hard to imagine what it's like to not understand something "curse of knowledge"
+
+Phone call recording saying monotonoely to go to a comedy show. Just before hearing it were told either had a positive or negative experience at the comedy show. 
+
+Could tell the slight differences in tone.
+
+Children have difficulty perceiving mind in others, usually fail false belief task up until about 3.5. Inability to appreciate the different perspectives and information others hold.
+
+Adults develop the ability to override this innate tendency and are able to consider other people's perspectives.
+
+Epley et al
+
+Eye tracking study. Found that adults have automatic egocentric process that is controlled cognitively. 
+
+Study looking at ikea shelf, some had blockades. Measured eye tracking behaviour. Told children and adults to grab the small truck. Director and participants view. Children would hand the truck that the director can't see, but adults would grab the truck that the director could. First looked at the blocked truck and then supressed that response. 
+
+-
+Consequences: false consensus effect
+
+We see our own choices as more common and likely to be done by the majority (compared to alternative choices). Eg. when asked about personal info people believed that most people shared similar traits (like fear of spiders).
+
+Eg. false consensus and Trump. Don't always appreciate that others see things differently as us.
+
+-
+Consequences; illusion of transparency
+
+View the world from our POV and we often believe people are able to read our emotions well.
+
+Gilovich et al asked particiaptns to hide their disgust (At a bad tasting drink)
+
+Video recordings of themselves were surprising, saw themselves as more inexpressive (thought other people would be able to tell their emotions/feelings better)
+
+Eg. giving presentations or speeches (everyone can tell you're extremely nervous).
+
+-
+consequences; poor decision making
+
+Often neglect circumstantial info
+
+Grossmann and Kross: people made better decisions for others than they do for themselves. We give advice more easily to others because we don't consider some of the  barriers or difficulties they might face (bad perspective taking; solomon's paradox). 
+
+Prompt was imagining their spouse cheated on themselves or a friend. Better advice for friend/more objective decisions. Decisions that are better for the long term. King Solomon; reknowned for giving good advice, but made bad decisions for himself. 
+
+-
+Gilovich et al
+
+Do we incorrectly perceive the amount of attention paid to us?
+
+Target participant had to wear a t-shirt into a room of other participants working on questionnaiires. (I <3 justin bieber). Entered the room with a knock, then had to estimate the likelihood that people would rememver the shirt. 
+
+IV: predicted vs actual observer ratings
+
+DV: accuracy of recall
+
+Result:
+
+- Predicted: around 50%
+- actual: 10%
+
+We over emphasize how much attention people pay to us. Incaccurately predict that people will recall noticable information; when in reality people have a lot more important things going on in their minds.
