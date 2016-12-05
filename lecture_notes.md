@@ -3728,3 +3728,92 @@ Result:
 - actual: 10%
 
 We over emphasize how much attention people pay to us. Incaccurately predict that people will recall noticable information; when in reality people have a lot more important things going on in their minds.
+
+## Dec 2 (missed)
+
+## Dec 5
+
+Final:
+
+- study broad themes more than in-depth details. 
+- only 1 part of the short answer will be IV/DV/result details
+
+Minimal groups paradigm - how we create groups. 
+
+Taijfel (underestimator of dots or overestimator of dots). Made people associate with their "group". Being randomly grouped with people makes you like them more.
+
+Prejudice occurs because we maintain our in and outgroup biases. 
+
+People have agency which makes us believe people are deserving of their situations (justice and belief in a fair world) which drives us to maintain prejudice. 
+
+Randomness and uncertainty is aversive, it impairs action. If we think the world is random, it makes us not try as hard because there is no point.
+
+BIS = conflict detector. If things are random, detects conflict. 
+
+-
+We perform social comparison at different levels (maintain your self esteem and group self esteem). We want to boost our self esteem by having a desirable ingroup. 
+
+"We won" vs "they lost". Deride a source of self esteem depending on whether we associate ourselves with various groups. (group serving bias = self serving bias but for groups)
+
+Realistic group conflict theory - we are competing for limited resources and developed innate dislike/competition with outgroups.
+
+-
+Sherif
+
+Brought kids to a campground, set them up in isolation, had them develop group bonds. Brought the 2 groups together, had them compete. Kids who never met each other, started to become prejudiced against the other group when they had no reason. 
+
+-
+Benevolent sexism; protective paternalism, complementary gender differences (eg purity), heterosexual intimacy. 
+
+Becker and Wright study 1
+
+Does benevolent sexism reduce women's intentions to take collective action?
+
+- IV: different primes: benevolent sexism vs hostile sexism vs gender neutral vs gender unrelated
+
+DV: ratings on collective action intentions and cognitions/beliefs.
+
+- collective action: participant in rallies
+- gender-specific system justification
+
+Result: Those primed with HS were more likely to endorse collective action, less system justification. 
+
+Mediation -> chain of events that leads to the outcome. 
+
+-
+Study 2
+
+Does BS reduce actual behaviour as well?
+
+Same as study 1
+
+IV: same 4 conditions
+
+DV: how many flyers they took to hand out
+
+Result: 
+
+- BS -> less collective action
+- HS -> more action
+
+-
+Study 3 and 4
+
+Does changing gender specific system justification and perceived advantages lead to changes in collective action?
+
+IV: high vs low system justification (study 3) and perceived advantages (study 4)
+
+- study 3: 87% (vs 13%) believe societal resources are fairly distributed
+- study 4: write about the advantages (vs disadvantages) of being a woman
+
+DV: intentions to participate in collective action
+
+Result: 
+
+- if high system justification, less collective action
+- if advantageous to be a woman, then less collective action
+
+Solidified the mediation model. 
+
+-
+Final starts with Lecture 19. 10 MC on the readings.
